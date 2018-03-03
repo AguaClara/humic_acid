@@ -1,5 +1,5 @@
 # Humic-Acid
-Investigate the optimal coagulant dosage at different humic acid concentrations
+Investigate the optimal coagulant dosage at different humic acid concentrations. Develop a mathematical model regarding the relationship between the optimal dosage and different humic acid concentrations.
 
 ## Members
 1. Peter McGurk: pjm326@cornell.edu, 978-760-3692
