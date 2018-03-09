@@ -51,7 +51,7 @@ Figure 2: Schematic of experimental apparatus. The second turbidimeter is not sh
 Following the apparatus schematic, the team finished the experimental apparatus set-up as shown
 below
 
-![Labtable](labtable.JPG)
+![Apparatus](Apparatus.JPEG)
 Figure 3: The actual apparatus set up.
 
 
