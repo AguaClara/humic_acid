@@ -39,39 +39,28 @@ weir was 40 cm and the bent angle of tube settler was 60 degrees to the horizont
 of the tube settler was determined so that the capture velocity of .308 mm/s would be produced at the
 end of the reactor.
 
-![Equipment](/Images/Equipment.JPG)
+![Equipment](Equipment.JPG)
+Figure 1: standardized sedimentation tank
 
 Four pumps were used to drive the tap water, clay water, humic acid solution and coagulant solution.
 Two turbidimeters were used to measure the turbidity of influent and effluent streams.
 
-![Setup](/Images/Setup.JPG)
+![Setup](Setup.JPG)
+Figure 2: Schematic of experimental apparatus. The second turbidimeter is not shown.
 
 Following the apparatus schematic, the team finished the experimental apparatus set-up as shown
 below
 
-![Labtable](/Images/labtable.JPG)
+![Labtable](labtable.JPG)
+Figure 3: Actual apparatus set up
+
+
 
 ### Procedure
 To run the experiment, we first clean the flocculator tube, the effluent turbidimeter and drain the recirculation unit. Next, we decide a coagulant concentration to test, and input the value into the MathCAD sheet for PAC dosing, which outputs the necessary pump speed. Similarly, we enter the humic acid concentration for the experiment and MathCAD outputs the necessary humic acid pump speed. We then fill the clay bucket with 4-5 liters of water and add Kaolin clay to the bucket. Based on the MathCAD output of the dilution rates for coagulant and humic acid, we prepare the coagulant for 1 liter of deionized water, and the humic acid for 4 liters of deionized water. Once that is all finished, we turn on the clay pump, the water pump, the coagulant pump and the humic acid pump. The water pump is generally ran at 50 RPM and the coagulant and humic acid pumps are varied based on MathCAD output. To tell if our experiment is working, the clay pump should be around 30-40 rpm maximum, and at the end of the experiment the effluent turbidity should be low (~3 NTU). For coagulant concentrations above ~1 mg/L, we expect flocs to form in the recirculation unit.
 
 ## Results and Analysis
-Present an observation (results), then explain what happened (analysis).  Each paragraph should focus on one aspect of your results. In that same paragraph, you should interpret that result.  
-In other words, there should not be two distinct paragraphs, but instead one paragraph containing one result and the interpretation and analysis of this result. Here are some guiding questions for results and analysis:
-
-When describing your results, present your data, using the guidelines below:
-* What happened? What did you find?
-* Show your experimental data in a professional way.
-```python
-from aide_design.play import*
-x = np.array([1,2,3,4,5])
-y = np.array([1,2,3,4,5])
-plt.figure('ax',(10,8))
-plt.plot(x,y,'*')
-plt.savefig('/Users/jillianwhiting/github/Jillian-Whiting/Images/linear')
-plt.show()
-```
-![linear](https://github.com/jillianwhiting/Jillian-Whiting/blob/master/Images/linear.png?raw=true)
-Figure 1: Captions are very important for figures. Captions go below figures.
+...
 
 
 ## Conclusions
