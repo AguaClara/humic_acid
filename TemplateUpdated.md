@@ -40,7 +40,7 @@ of the tube settler was determined so that the capture velocity of .308 mm/s wou
 end of the reactor.
 
 ![Equipment](Equipment.JPG)
-Figure 1: standardized sedimentation tank
+Figure 1: The standardized sedimentation tank.
 
 Four pumps were used to drive the tap water, clay water, humic acid solution and coagulant solution.
 Two turbidimeters were used to measure the turbidity of influent and effluent streams.
@@ -52,7 +52,7 @@ Following the apparatus schematic, the team finished the experimental apparatus 
 below
 
 ![Labtable](labtable.JPG)
-Figure 3: Actual apparatus set up
+Figure 3: The actual apparatus set up.
 
 
 
