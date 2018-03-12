@@ -8,3 +8,5 @@ Investigate the optimal coagulant dosage at different humic acid concentrations.
 
 ## Research Advisor
 * Auggie Longo: akl62@cornell.edu, 978-697-8213
+## Presentations
+Symposium :https://docs.google.com/presentation/d/1mYFGqPZnsLZYaZCkidqF_opg0ZV8qiJncXxsfLiWUqk/edit#slide=id.g34deb1dcad_0_168
