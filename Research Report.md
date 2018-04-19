@@ -8,7 +8,7 @@ Please don't delete my comments on this report. Address them for the next submis
 </div>
 
 ## Abstract
-The Spring 2018 Humic Acid subteam seeks to experimentally pinpoint the optimal coagulant concentration needed to promote the removal of different concentrations of humic acid from water. Currently, the team has tested five different coagulant concentrations: .3, .5, .8, 1 and 1.3 mg/L for a humic acid concentration of 5 mg/L. Based on previous work, the optimal coagulant concentration appears around 1.5 mg/L. For future work, the team plans to test more coagulant concentrations and vary the humic acid concentration to at least 10 and 15 mg/L. By the end of the semester a mathematical model should be set up for the relationship between optimal coagulant dosage and humic acid concentration.
+The Spring 2018 Humic Acid subteam seeks to experimentally pinpoint the optimal coagulant concentration needed to promote the removal of different concentrations of humic acid from water. Currently, the team has tested five different coagulant concentrations: 0.3, 0.5, 0.8, 1 and 1.3 mg/L for a humic acid concentration of 5 mg/L. Based on previous work, the optimal coagulant concentration appears around 1.5 mg/L. For future work, the team plans to test more coagulant concentrations and vary the humic acid concentration to at least 10 and 15 mg/L. By the end of the semester a mathematical model will be set up for the relationship between optimal coagulant dosage and humic acid concentration.
 
 <div class="alert alert-block alert-danger">
 Very clear abstract - find trend between coagulant dose for humic acid removal at different humic acid concentrations.
@@ -21,7 +21,7 @@ Notice how you use "Spring 2018 Humic Acid subteam" here, try to use this notati
 </div>
 
 ## Introduction
-Natural Organic Matter (NOM) is found in all ground and soil waters. There has been an increase in the amount of NOM in raw water supplies in areas. NOM in water can serve as nutrients for bacterias, viruses, and pathogens, which encourages their re-germination processes. Additionally, NOM produces by-products during the degradation process, which had previously been identified as carcinogenic. It then becomes imperative to remove NOM in water. Currently, there isn't a robust model that predicts how NOM behaves in water and thus, there are not effective treatment methods for NOM removal. Knowledge of this area is very limited, which consequently affects drinking water treatment significantly. The role of NOM in water might call for a need to increase coagulant doses.
+Natural Organic Matter (NOM) exists in all ground and surface waters. It can serve as nutrients for bacterias, viruses, and pathogens, encouraging their re-germination processes.  Additionally, NOM produces carcinogenic by-products during the degradation process. It then becomes imperative to remove NOM in water. The amount of NOM in raw water supplies increases in areas such as North Europe and North America, due total amount of NOM in these areas increasing. However, there isn't a robust model that predicts how NOM behaves in water currently. Limited knowledge in this area affects drinking water treatment significantly. Many researchers believe that the role of NOM in water might call for a need to increase coagulant doses.
 
 <div class="alert alert-block alert-danger">
 Consider not including "soil" in the first sentence. Ground and surface water is clearer.
