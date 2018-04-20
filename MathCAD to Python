@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##Coagulant Equations:
 ####Mass Flow of Coagulant:
 $$ W_{coagulant} = Q_{sys}*C_{sys} $$
@@ -38,3 +39,6 @@ $$f_{used,reservoir} = Usable \hspace{1mm}fraction\hspace{1mm} of\hspace{1mm} th
 
 ##Humic Acid Equations:
 The humic acid equations are the same as the coagulant equations, except each variable that is not with respect to the reservoir, is with respect to the humic acid, instead of the coagulant. 
+=======
+
+>>>>>>> a037891f6c29cca28e81f0220f9301f76fe5be09
