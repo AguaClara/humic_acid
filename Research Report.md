@@ -171,6 +171,8 @@ Currently, Spring 2018 Humic Acid subteam found the optimal coagulant dosage at 
 
 In addition, the team found that for one trial, as the effluent turbidity increases after the steady state, the pressure head loss also increases. Therefore, the head loss accumulation could be the reason why the effluent turbidity cannot stay steady for a very long time.
 
+In terms of importance to the world in general, our coagulant concentration should also not be too high because it is unnecessary and potentially harmful to the water quality. Too much coagulant will prevent flocculation which is counter-productive to our goal of removing humic acid.Too little coagulant means the water still potentially has significant levels of humic acid, which will be problematic once chlorine is used to kill bacteria in the water, because the humic acid and chlorine will react to form chloroform which is very harmful to the human liver and humans in general.
+
 <div class="alert alert-block alert-danger">
 read through and Revise
 do not use "+"
@@ -179,7 +181,7 @@ you dont explain the last sentence in your analysis section. Nothing should be n
 </div>
 
 ## Future Work
-Completion of our goals and objectives will give AguaClara enough information about humic acid removal for the expansion of this laboratory experiment to a plant scale operation. The use of humic acid to mimic the conditions of the water in the location of AguaClara plants is not completely accurate. This is because there are other particles in natural water that may affect the removal of humic acid and the ability of coagulant to bind to the clay and humic acid particles. If we can complete the humic acid section of experimentation, we can begin to add more particles, along with humic acid, into our experimental water to more closely resemble the source water at AguaClara plants. Eventually a complete understanding of the effects of coagulant on particle removal will allow AguaClara to develop relationships and equations to determine how much coagulant is needed for the proper cleaning of various source waters. Coagulant concentration should also not be too high because it is unnecessary and potentially harmful to the water quality. Too much coagulant will prevent flocculation which is counter-productive to our goal of removing humic acid.Too little coagulant means the water still potentially has significant levels of humic acid, which will be problematic once chlorine is used to kill bacteria in the water, because the humic acid and chlorine will react to form chloroform which is very harmful to the human liver and humans in general.
+Completion of our goals and objectives will give AguaClara enough information about humic acid removal, for the expansion of this laboratory experiment to a plant scale operation. The use of humic acid to mimic the conditions of the water in the location of AguaClara plants is not completely accurate. This is because there are other particles in natural water that may affect the removal of humic acid. These other particles also affect the ability of coagulant to bind to the clay and humic acid particles. If we can complete the humic acid section of experimentation, we can begin to add more particles, along with humic acid, into our experimental water. This allows us to more closely resemble the source water at AguaClara plants. Eventually a complete understanding of the effects of coagulant on particle removal will allow AguaClara to develop relationships and equations. These equations will be used to determine how much coagulant is needed for the proper cleaning of various source waters. More specifically, the mathematical model we will create will relate humic acid concentration to optimal coagulant concentration. Once we plot this data for various results, we can predict what coagulant level we'll need to remove any humic acid concentration. Currently, we are testing for the optimal coagulant level for our third humic acid concentration, 15 mg/L.
 
 <div class="alert alert-block alert-danger">
 Do not switch between first and third person. Need to be consistent
@@ -208,27 +210,28 @@ consider referencing important past AguaClara research reports here - unresolved
 
 # **Manual**
 ### Experimental Methods
-1. Choose the experimental set-up by talking with other particle-removal subteams to decide what components are essential. The various experimental setups have different locations of pumps and numbers of pumps because they are for different subteams, but general components are necessary to determine from other subteams. For example, having a recirculator, pumps, turbidimeters and a clay bucket are essential. Construct the recirculator and flocculator. The recirculator was constructed from clear PVC piping, and fabricated to have custom joints, which were connected with adhesive. The flocculator is made from plastic tubing, which is coiled around a cardboard cylinder.
+1. Choose the experimental set-up by talking with other particle-removal subteams to decide what apparatus components are essential. Construct the recirculator and flocculator. The recirculator was constructed from clear PVC piping, and fabricated to have custom joints, which were connected with adhesive. The flocculator is made from plastic tubing, which is coiled around a cardboard cylinder.
 
 <div class="alert alert-block alert-danger">
 Remove vague language. Try to make clear and concise.
 </div>
 
-2. Set up the ProCoDA by determining what pumps and turbidimeters need to be controlled based on experimentation purposes. For our experiment, we pump humic acid, water, and coagulant at constant rates, so they don't need to be controlled directly by ProCoDA. The turbidimeters and pressure sensor are also linked to ProCoDA because we need the data to be measured in order to formulate an analysis of whether or not our removal system is effective. On the other hand, the clay pump does need to be controlled by ProCoDA because the clay rate is not constant. Our experimental purposes are to pump in specific concentrations of humic acid and coagulant and observe the effluent turbidity, which is why we need ProCoDA, because it allows us to see what happens to the effluent turbidity as the experiment runs to steady state, and what the effluent turbidity is at the experimental steady state.
+2. Set up ProCoDA by determining what pumps and turbidimeters need to be controlled based on experimentation purposes. For our experiment, we pump humic acid, water, and coagulant at constant rates, so they don't need to be controlled directly by ProCoDA. The turbidimeters and pressure sensor are also linked to ProCoDA because we need the data to be measured in order to formulate an analysis of whether or not our removal system is effective. On the other hand, the clay pump does need to be controlled by ProCoDA because the clay rate is not constant. The pumps are turned on with the black switch on the front of the pump box.
 
 <div class="alert alert-block alert-danger">
 please revise section for clarity. This should be action driven i.e. how do you turn on the pumps? No need to reiterate purpose
 </div>
 
 3. Start experiments
-  * Collect data through ProCoDA and upload to Google Drive
+  * We collect data through ProCoDA and upload to Google Drive
     - The experiment run time varies with each experiment but we usually run the experiment until the clay runs out, which takes about 15 hours.
-  * Adjust experimental designs based on results
+  * We adjust experimental designs based on results
     - For example, if the results are not good because the coagulant ran out, the dilution factor for the coagulant can be changed to make the coagulant last longer, so the experiment has more time to reach steady state.
-  * Multiple trials should be conducted
+  * We will conduct multiple trials
     - To verify data is able to be reproduced, multiple trials for each coagulant concentration should be carried out, and the results should be compared for consistency in effluent turbidity.
   * Data Analysis
-    - This consists of looking at the excel sheet of data, and searching for the steady state in the data, which is where the effluent turbidity reaches a constant value, which is typically around 1 NTU. Then we plot the data from the start of the experiment until the steady state ends, which is when either coagulant or clay or humic acid runs out, which can be seen by a spike in effluent turbidity after a steady state.
+    - This consists of us looking at the excel sheet of data, and searching for the steady state in the data, which is where the effluent turbidity reaches a constant value, which is typically around 1 NTU. Then we plot the data from the start of the experiment until the steady state ends, which is when either coagulant or clay or humic acid runs out, which can be seen by a spike in effluent turbidity after a steady state.
+  * Note any observations and results while experimenting.
 
   <div class="alert alert-block alert-danger">
 Keep in mind good technical writing
@@ -240,16 +243,18 @@ Keep in mind good technical writing
 
 ### Experimental Checklist
 Before starting the experiment:
-* The ProCoDA is connected, and appropriately set up for data collection
-* The stock solutions are adequately filled
-* All tubing is connected properly, and no leaks are present in the system
+* Make sure ProCoDA is connected, and appropriately set up for data collection
+* Check that the stock solutions are adequately filled
+* Check that all tubing is connected properly, and no leaks are present in the system
+
 For ~5 minutes after starting the experiment:
-* Influent turbidity has stabilized around 100 NTU
-* Clay pump should be below 80 RPM
+* Make sure the influent turbidity has stabilized around 100 NTU
+* Also check that the clay pump is below 80 RPM
+
 Later during the experiment:
-* Floc blankets have formed in the recirculator
-* There is still coagulant, clay and humic acid in their respective containers
-* Effluent turbidity should be getting significantly lower as time progresses
+* Floc blankets should have formed in the recirculator
+* Check that there is still coagulant, clay and humic acid in their respective containers
+* Ensure that effluent turbidity is getting significantly lower as time progresses
 
 <div class="alert alert-block alert-danger">
 Don't need "the" in front of ProCoDA
