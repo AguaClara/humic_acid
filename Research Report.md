@@ -58,30 +58,26 @@ put space before the start of parantheses
 # Methods
 ##Experimental Apparatus
 To standardize with setup of other particle-removal subteams, 1-inch clear PVC pipe was chosen and
-fabricated so that the experimental apparatus has a 50 cm recirculator and 35 cm tube settler. The floc
-weir was 40 cm and the bent angle of tube settler was 60 degrees to the horizontal direction. The length
-of the tube settler was determined so that the capture velocity of .308 mm/s would be produced at the
+fabricated so that the experimental apparatus has a 50 cm recirculator (14) and 35 cm tube settler(15). The floc weir was 40 cm and the bent angle of tube settler was angled 60 degrees relative the horizontal. The length of the tube settler was determined so that a capture velocity of .308 mm/s would be produced at the
 end of the reactor.
 
 <div class="alert alert-block alert-danger">
 Look at this section in the preview markdown mode and fix formatting errors. - unresolved, there are still spots where you accidentally hit "enter"
 
-Where did you get this design from? which particle-removal team? - unresolved
+Where did you get this design from? which particle-removal team? - unresolved (We don't know which subteam because it was designed long before we joined. Also might be irrelevant information to include.)
 
 Label the parts discussed about in the figure below and refer to it. (Imagine that I don't know what a recirculator or a tube settler are) - Remember to refer to figures in the paragraphs that would benefit by looking at them - also unresolved
 </div>
 
-![Equipment](Equipment.JPG)
+![Equipment](Tubesettler.JPG)
 Figure 1: The standardized sedimentation tank.
 
-Four pumps were used to drive the tap water, clay water, humic acid solution and coagulant solution.
-Two turbidimeters were used to measure the turbidity of influent and effluent streams.
+Four pumps (1,2,3,7) were used to drive the tap water, clay water (8), humic acid solution (10) and coagulant solution(12). Two turbidimeters (5,6) were used to measure the turbidity of influent (5) and effluent (6) streams.
 
 ![Setup](Setup.JPG)
 Figure 2: Schematic of experimental apparatus. The second turbidimeter is not shown.
 
-Following the apparatus schematic, the team finished the experimental apparatus set-up as shown
-below
+The team finished the experimental apparatus set-up as shown below in Figure 3.
 
 <div class="alert alert-block alert-danger">
 You don't talk about making the apparatus schematic, you just said this is the apparatus schematic so phrasing it this way is weird. - unresolved
@@ -89,8 +85,10 @@ You don't talk about making the apparatus schematic, you just said this is the a
 also refer to figures by their figure number
 </div>
 
-![Apparatus](Apparatus.JPEG)
+![Apparatus](Apparatus.JPG)
 Figure 3: The actual apparatus set up.
+
+First, the water pump (1) pumps DI-water into the system where it flows into the flow accumulator (11). Clay water (8) is added to the stream immediately after where it then enters the influent turbidimeter (5). The turbdimeter and the clay pump work together with ProCoDA to regulate the amount of clay pumped into the system, so that influent NTU hovers around 100. The coagulant (12) is added to the stream afterwards, right before the solution enters the flocculator (4). The flocculator accelerates the solution as to maximize clay coagulant collisions. The solution then flows in the tube settler, recirculator complex shown by Figure 1. Once the floc blanket forms, clean water flows through the effluent turbidimeter (6), and then out the waste pipe.
 
 <div class="alert alert-block alert-danger">
 Label what things are in Figure 3 and refer to it in the body of your paragraph. - unresolved
