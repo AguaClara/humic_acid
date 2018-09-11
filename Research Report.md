@@ -1,7 +1,7 @@
 
 # Humic Acid, Kaolin, Floc/Sed Model, Spring 2018
 #### Peter McGurk, Vanessa Qi, Samba Sowe
-#### March 9, 2018
+#### Sep 9, 2018
 
 
 
