@@ -1,12 +1,11 @@
 # Humic-Acid
-Investigate the optimal coagulant dosage at different humic acid concentrations. Develop a mathematical model regarding the relationship between the optimal dosage and different humic acid concentrations.
+Investigate the effluent HA concentrations as coag dosages increase for certain HA influent concentration using spectrophotometer. Design experiments to compare HA effluent concentration trends for different HA influent concentations.
 
 ## Members
-1. Peter McGurk: pjm326@cornell.edu, 978-760-3692
-2. Samba Sowe: sas587@cornell.edu, 607-351-9287
+1. Carolyn Wang: jw2376@cornell.edu, 607-262-2638
+2. Matthew Lee: mbl222@cornell.edu, 908-821-3496
 3. Vanessa Qi: zq33@cornell.edu, 917-940-1102
 
 ## Research Advisor
-* Auggie Longo: akl62@cornell.edu, 978-697-8213
+* Victoria Zhang: vxz3@cornell.edu, 781-249-3141
 ## Presentations
-Symposium :https://docs.google.com/presentation/d/1mYFGqPZnsLZYaZCkidqF_opg0ZV8qiJncXxsfLiWUqk/edit#slide=id.g34deb1dcad_0_168
