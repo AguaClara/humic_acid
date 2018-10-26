@@ -23,174 +23,204 @@ Table 1: Results from Spring 2018 Humic Acid Team
 Even though the humic acid concentration doubled, the difference between optimal coagulant dosages was negligible. Therefore, the Team decided to change our research path. Instead of continuing to test optimal coagulant dosage for different humic acid concentrations, the Fall 2018 Team will investigate how effluent humic acid concentration changes as coagulant dosage increases at a certain humic acid influent concentration. To determine the effluent humic acid concentration, the Team will use AccuView spectrophotometer to measure the flow absorbance and calculate the concentration of corresponding species in the flow with Beer's Law. The results of these experiments enable the Team to develop relationships between effluent humic acid concentrations and coagulant dosages for a certain humic acid influent concentration. With more available information of NOM in local water supplies, AguaClara could better adjust the coagulant dosage to achieve lower effluent turbidities and save money on coagulant.
 
 
-## Literature Review and Previous Work
+## Literature Review
 NOM negatively affects water quality in a number of ways. It causes discoloration, taste and odor problems, and biological growth in distribution systems. It also increases the concentration of heavy metals and absorbed organic pollutants. The increased particles in water consequently cause an increase in sludge volumes. Matilainen et al. suggests that optimized coagulation is the major treatment option in decreasing NOM level (2010). However, the nature of NOM has significant effects on the removal efficiency of coagulation. Additionally, the hydrophobic portion of NOM is generally removed more effectively with coagulation than the hydrophilic portion is. The removal efficiency of NOM also depends on several factors such as pH, temperature and coagulant type.
 
 Soh et al. isolated dissolved NOM into four organic fractions based on their hydrophobic and hydrophilic properties (very hydrophobic acids, slightly hydrophobic acids, charged hydrophilics, and neutral hydrophilics) (2008). His experiment was designed to determine the impact of alum coagulation on removal of these fractions in conventional water treatment. He found that the alum removed mostly hydrophobic and higher molecular weight components of NOM. This result further verified that the NOM removal efficiency is correlated with the properties of NOM. His study also revealed that, even though alum coagulation removed a large proportion of NOM, a significant amount of the NOM resisted coagulation as well. This implies that NOM removal will not improve significantly at very high coagulant dosage.
 
-Because of the aforementioned factors, such as pH value, that influence NOM removal efficiency, the team needs to design well-controlled experiments to avoid any unexpected variables affecting experimental results. The studies that have been conducted in related fields provide inspiration for experiments the team plans to conduct this semester, such as exploring the optimal coagulant dosage (the dosage which yields the lowest effluent turbidity) at a certain humic acid concentration. Previous research had focused on the general affect of coagulation on humic acid and the subcomponents of NOM, but there have been no comprehensive studies conducted on optimal dosages. As such, this will be the primary research focus of our team.
+Because of the aforementioned factors, such as pH value, that influence NOM removal efficiency, the team needs to design well-controlled experiments to avoid any unexpected variables affecting experimental results. The studies that have been conducted in related fields provide inspiration for experiments the team plans to conduct this semester, such as exploring the optimal coagulant dosage (the dosage which yields the lowest effluent turbidity) at a certain humic acid concentration. Previous research had focused on the general affect of coagulation on humic acid and the subcomponents of NOM, but there have been no comprehensive studies conducted on optimal dosages. As such, this will be the primary research focus of then team.
 
-[EM: Refer to the team in third-person point of view.]
+
 
 Yingda Du, a former graduate student at Cornell, was the first to experiment with how effluent turbidity is affected by a combination of coagulant concentration and humic acid concentration. Her thesis paper investigates the effects NOM has on flocculation. Particle size distribution of flocs and effluent turbidity are the two major criteria for determining the effectiveness of flocculation. These two parameters are affected by the concentration of NOM in the system. In order to model this system, humic acid, which is one of the major components of NOM, serves as the surrogate for NOM. Du hypothesized that variation in humic acid concentration will affect floc size distribution and effluent turbidity. In her thesis, she modeled the effects of humic acid in high turbidity water on flocculation. For influent turbidity at 50 NTU with coagulant dosage ranging from 0.53mg/L to 2.65mg/L and humic acid concentration ranging from 0 to 15mg/L, a series of experiments from Yingda indicate that the coagulant dosage is positively correlated with turbidity reduction and the presence of humic acid greatly increases the effluent turbidity. This was same for every experiment. An increase in coagulant dosage decreased the settled water turbidity.
 
-Another finding from Du's report is that the presence of humic acid increases the frequency of smaller particles after flocculation. As humic acid coats coagulant nano-particles, the attachment efficiency of collisions will decrease. Thus, humic acid can change the particle size distribution of the precipitated solids and larger particle formation is greatly inhibited by humic acid.
+Another finding from Du's report is that the presence of humic acid increases the frequency of smaller particles after flocculation. As humic acid coats coagulant nano-particles, the attachment efficiency of collisions will decrease. Thus, humic acid can change the particle size distribution of the precipitated solids and larger particle formation is greatly inhibited by humic acid.This result indicates that existence of humic acid particles could diminish the performance of flocculation/sedimentation process with higher effluent turbidity.
 
-[EM: Relate this back to the problem at hand.]
+## Previous Work
+The Humic Acid Team as established in Fall 2017 and in that semester, the team members tested the optimal coagulant dosage at 5mg/L humic acid influent concentration and obtained 1.6mg/L as the optimal coagulant dosage. However, as the team only conducted experiment for one humic acid influent concentration, no substantial conclusion was drawn.
 
-The Spring 2018 Humic Acid subteam tested optimal coagulant dosages for 5m/L and 10mg/L HA concentrations and found the optimal coagulant dosage at 5mg/L HA and 100 NTU influent is 1.6mg/L to 1.8mg/L, which is  consistent with the result reported by Fall 2017 Humic Acid subteam. For 10mg/L HA, the optimal coagulant dosage is 1.3mg/L. As the HA concentration increases, the optimal coagulant dosage drops down slightly. However, the team cannot conclude that the increasing of HA concentration will decrease the optimal coagulant dosage, as more different HA concentrations should be tested.\
+The Spring 2018 Humic Acid subteam verified the previous semester's result and tested optimal coagulant dosages for 5m/L and 10mg/L HA concentrations. The results are shown in Table 1 above. As the HA concentration increases, the optimal coagulant dosage drops down slightly. However, the team cannot conclude that the increasing of HA concentration will decrease the optimal coagulant dosage, as more different HA concentrations should be tested.In addition, the team found that for one trial, the head loss through the flocculator accumulates with time. This phenomenon might explain why the effluent turbidity rises up again after the experiment reaches steady state.
 
-[EM: The first sentence was already said in the introduction. Consider refering back to it instead, or only including it in one section. Also, have two seperate sections for the literature review and previous work. Consider listing out the semesters in which the HA team existed, and writing a small summary for each semesters' work, instead of including it all in one paragraph.]
-
-In addition, the team found that for one trial, the head loss through the flocculator accumulates with time. This phenomenon might explain why the effluent turbidity rises up again after the experiment reaches steady state.
-
-In terms of importance to the world in general, our coagulant concentration should not be too high because it is expensive and potentially harmful to the water quality. Too much coagulant will prevent flocculation which is counter-productive. Too little coagulant means the water still potentially has significant levels of humic acid, which will be problematic once chlorine is used to kill bacteria in the water, because the humic acid and chlorine will react to form chloroform which is very harmful to humans.
-
-[EM: Don't refer to the team in first-person point of view. Revise the last sentence to make it more concise or break it up into two sentences.]
-
-The use of humic acid to mimic the conditions of the water in the location of AguaClara plants is not completely accurate. This is because there are other particles in natural water that may affect the removal of humic acid. These other particles also affect the ability of coagulant to bind to the clay and humic acid particles. If the team can complete the humic acid section of experimentation, then the team can begin to add more particles, along with humic acid, into the team's experimental water. This allows us to more closely resemble the source water at AguaClara plants.
-
-[EM: Unless this was found by a previous subteam, the two paragraphs above are in the wrong section. They are better suited for the introduction. Wrtiting is a bit too formal, as well.]
-
-
+In terms of importance to the world in general, the coagulant concentration should not be too high because it is expensive and potentially harmful to the water quality. Too much coagulant will prevent flocculation which is counter-productive. Too little coagulant means the water still potentially has significant levels of humic acid, which will be problematic once chlorine is used to kill bacteria in the water. The humic acid and chlorine will react to form chloroform which is very harmful to humans.
 
 
 
 ## Methods
-Explain the techniques you have used to acquire additional data and insights. Reserve fine detail for the Manual at the end of the report, but use this section to give an overview with enough detail for the reader to understand your Results and Analysis. Describe your apparatus, and have a justification for every decision you made and every parameter you chose in the design of the apparatus. Be especially careful to detail the conditions your experiments were conducted under, as this information is especially important for interpreting your results
+#### Experimental Apparatus
 
-Below, some example sections are given. Sectioning the report is meant to keep similar information together.  Continue making sections as necessary, or delete sections if you do not need them. Feel free to add subsubsections to further delineate the information. For example, under the Experimental Apparatus section below, the EStaRS team might consider having sections such as "Filter Design" and "Filter Fabrication".
+###### Sedimentation Tank Model
 
-### Experimental Apparatus
-Explain your apparatus setup using enough detail such that future teams can recreate your apparatus. Make sure to explain why you built it this way. Create a schematic drawing of the apparatus (not a photo) that has clearly labeled components, flow paths, sensors, and reactor geometry.
-* Design (calculations, constraints)
+<img src="https://github.com/AguaClara/humic_acid/blob/master/Tubesettler.jpg?raw=true" height=250 width=200>
 
-  $\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
-* Schematic (label parts)
+Figure 1: Sedimentation Tank Model
 
-  <img src="https://github.com/jillianwhiting/Jillian-Whiting/blob/master/Images/IMG_0009.jpg?raw=true" height=250 width=200>
+To standardize with setup of other dissolved species sub-teams, the team also used PVC pipe to mimic the sedimentation tank. 1-inch clear PVC pipe was chosen and fabricated so that the experimental apparatus had a 50 cm recirculator (14) and 35 cm tube settler(15). The floc wire was 40 cm and the bent angle of tube settler was angled 60 degrees relative the horizontal. The length of the tube settler was determined so that a capture velocity of .308 mm/s would be achieved at the end of the reactor. The design was obtained from High Rate Sedimentation sub-team.  
 
-* Image (from lab; label parts)
-* Materials (dimensions, materials)
-* Complications in construction
-* If already constructed: write a brief summary of important constraints, include any revisions to apparatus, also reference the prior report where construction is described
+###### Other Apparatus
+<img src="https://github.com/AguaClara/humic_acid/blob/master/System%20setup%20new..jpg?raw=true" height=250 width=350>
+
+Figure 2: Other apparatus consisting of pumps, turbidimeters, flocculator and a spectrophotometer.
+
+Four pumps (1,2,3,7) were used to drive the tap water, clay water (8), humic acid solution (10) and coagulant solution(12) respectively. Two turbidimeters (5,6) were used to measure the turbidity of influent (5) and effluent (6) streams. The flocculator(4) was constructed by the Spring 2018 High G Flocculation Team with 100ft PVC tubing.
+
+First, the water pump (1) pumps DI-water into the system where it flows into the flow accumulator (11). Clay water (8) is added to the stream immediately after the accumulator and  it then enters the influent turbidimeter (5). The turbidimeter and the clay pump work together with ProCoDA to regulate the amount of clay pumped into the system, so that influent NTU hovers around 100. The coagulant (12) is added to the stream afterwards, right before the solution enters the flocculator (4).The flocculator accelerates the solution as to maximize clay coagulant collisions. The solution then flows in the recirculator and tube settler. Once the floc blanket forms, clean water flows through the effluent turbidimeter.
+
+The AccuView spectrophotometer was added into the experimental apparatus to measure the effluent humic acid turbidity. The spectrophotometer was installed after the effluent turbidimeter and the outlet of spectrophotometer was connected to the waste water line. The measurement reading was set in the unit of absorbance(ABS) at 254 nm. The spectrophotometer was calibrated with DI water beforehand
+
+
+
+
+######Complications
+There were complications in integrating the spectrophotometer into the system and there was leaking problem at the spectrophotometer's inlet. The team then realized that the tubing ends were not smooth and did not fit into the push connectors well, allowing water to leak from the system.  The short rough ends of the tubing were cut off and then reconnected to the spectrophotometer, resolving the leaking water issue.
+
+#### Experimental Methods
+
+To start the experiment on measuring the effluent humic acid concentration, the Fall 2018 Humic Acid Team needed to investigate how to convert the spectrophotometer absorbance reading to humic acid concentration. Because both clay and humic acid particles contribute to the absorbance reading, the team decided to start three preliminary experiments before testing the effluent humic acid concentration as coagulant concentration changes.
+
+The first preliminary experiment is to confirm that humic acid particles will obey Beer's Law which we could use for the future. Since the spectrophotometer was not installed properly in the beginning of the semester, the team used the 1600 UV spectrophotometer in the design lab to measure the absorbance for 5mg/L, 10mg/L and 15mg/L humic acid solution. The results were analyzed afterwards.
+
+The second preliminary test is to develop a relationship between the clay solution turbidity and absorbance. The team used the ProCoDA to control clay solution turbidity  at 10NTU, 20NTU and 30NTU and then measured the absorbance respectively. The importance of the second preliminary test is with the assumption that only clay particles affect the effluent turbidity reading, the team can calculate the clay absorbance based on the effluent turbidity and subtract the clay absorbance from the total absorbance to get the pure humic acid absorbance. This assumption could be further confirmed by the third preliminary test.
+
+<img src="https://github.com/AguaClara/humic_acid/blob/master/SchematicDraw.TestClay.png?raw=true" height=250 width=400>
+
+Figure 3: The schematic graph for the second preliminary test
+
+In the third preliminary test, the team used humic acid solution with known concentrations(5mg/L, 10mg/L and 15mg/L) to run though the turbimeter and AccuView spectrophotometer. The relationship between the humic acid concentration and absorbance can be found as the first preliminary test indicated that humic acid solution obeys Beer's Law. This test could also confirm the team assumption that only clay particles affect the effluent turbidity reading was valid, if the turdimeter reading was negligible.
+
+After the three preliminary tests, the team conducted the designed experiments in which the team tested effluent humic acid concentration changes as coagulant dosage increased from 0.5mg/L to 2mg/L at 5mg/L, 10mg/L and 15mg/L influent humic acid concentrations.
+
 
 ### Procedure
-Discuss your experimental procedure. How did you run your experiment? What were you testing? What were the values of relevant parameters?
+The first preliminary was conducted to ensure that the absorbance of humic acid obeys Beer’s law.   The UV-1600PC Spectrophotometer in the Design Lab was used for this set of experiments.
+
+* Warm the spectrophotometer for 10 minutes.
+* Calibrate the cuvette with DI-Water at 254 nm, the absorbance wavelength for humic acid
+* Prepare Humic Acid samples with the following concentrations using stock humic acid and DI-Water:
+  (1)5 mg/L
+  (2)10 mg/L
+  (3)15 mg/L
+* Measure the absorbance of the samples one by one, recording the measured absorbances for the respective humic acid samples.
+
+The following experiments try to determine the relationship between various influent mixtures and the corresponding absorbances.
+* Clean the flocculator tube and the effluent turbidimeter
+* Drain the recirculation unit
+* Input the species concentration into the MathCAD sheet for PACl dosing, which outputs the necessary pump speed
+* Fill the clay bucket with 4-5 liters of water and add Kaolin clay to the bucket (2-3 scoops/exact amount isn't important because clay concentration is   controlled by ProCoDA)
+* Turn on the clay pump and the water pump. The clay pump is controlled by ProCoDa and other pumps are controlled on manually by pressing the switch.The water pump is generally running at 50 RPM.
+* The clay pump should be around 30-40 rpm maximum, and at the end of the experiment the effluent turbidity should be low (less than 3 NTU) and in a steady state.
+* Record data when the experiment reaches steady state.
+* Stop the experiment by shutting down all the running pumps, turbidimeters and the clay stir.
+
+
+
+
 
 ## Results and Analysis
-Present an observation (results), then explain what happened (analysis).  Each paragraph should focus on one aspect of your results. In that same paragraph, you should interpret that result.  
-In other words, there should not be two distinct paragraphs, but instead one paragraph containing one result and the interpretation and analysis of this result. Here are some guiding questions for results and analysis:
 
-When describing your results, present your data, using the guidelines below:
-* What happened? What did you find?
-* Show your experimental data in a professional way.
+
+
+The plot of Absorbance at 254 nm vs. Concentration of Humic Acid is linear.  This is expected because the graph should follow Beer’s Law, which statesA=lc: absorbance is the absorptivity constant times the length of the UV light path times the concentration of the species.  If a linear regression were to be plotted for the graph above, the slope would the the the absorptivity constant times the length of the light path.  Since the Beer’s Law relationship was confirmed with the species used in this experiment, future experiments can be conducted to calculate concentration, given that the absorption, absorptivity constant, and path length are known.
+
+
 ```python
 from aide_design.play import*
-x = np.array([1,2,3,4,5])
-y = np.array([1,2,3,4,5])
-plt.figure('ax',(10,8))
+x = np.array([0，5，10，15])
+y = np.array([0.003，0.141，0.316，0.446])
 plt.plot(x,y,'*')
-plt.savefig('/Users/jillianwhiting/github/Jillian-Whiting/Images/linear')
+plt.xlabel('Concentration of Humic Acid(mg/L)')
+plt.ylabel('Absorbance at 254 nm(AU)')
+plt.title('Humic Acid: Absorbance at 254 nm vs. Concentration')
+plt.savefig('/Users/vanessa/github/humic_acid/test1.png')
 plt.show()
 ```
-![linear](https://github.com/jillianwhiting/Jillian-Whiting/blob/master/Images/linear.png?raw=true)
-Figure 1: Captions are very important for figures. Captions go below figures.
+![test1](https://github.com/AguaClara/humic_acid/blob/master/test1.png?raw=true)
 
-### Figure requirements
- - Create the graph using python (not Excel)
- - If the x axis is time then make zero time reflect the beginning of the test.
- - Use a white background for all graphs.
- - Most data will have both x and y values and thus should be presented using an xy scatter plot.
- - Label all axes and include units where appropriate.
- - Axis scale labels should be in the margin of the graph and not inside the graph border.
- - Eliminate parts of the range in both x and y axis that aren't used or that aren't meaningful.
- - Place a caption with a brief description below the graph. Add this caption using the wiki formatting, not in your graphing software.
- - Use data symbols to show data points unless there is so much data that the symbols overlap. If the data symbols overlap it is better to connect the data points with a line and not show the data symbols.
- - When presenting multiple plots on a single graph make sure that it is easy to distinguish the plots using the legend.
- - If curve fitting is used explain why and include the equation (elsewhere in the report).
- - If a model or theoretical curve is presented it should be a smooth curve without data points.
- - Use the same font in the graphs as you use in the text of the report.
- - Insert the graph in your report after the first reference to it in the text. Inserted the graph after the next paragraph break
- - Scale the size of the graph so it is large enough to see the data and read the text without having to follow a link to see a larger image. Avoid using hyperlinks on images because that causes the export to Microsoft Word option to not include the image.
 
-After describing a particular result, within a paragraph, go on to connect your work to fundamental physics/chemistry/statics/fluid mechanics, or whatever field is appropriate. Analyze your results and compare with theoretical expectations; or, if you have not yet done the experiments, describe your expectations based on established knowledge. Include implications of your results. How will your results influence the design of AguaClara plants? If possible provide clear recommendations for design changes that should be adopted. Show your experimental data in a professional way using the following guidelines:
-* Why did you get those results/data?
-* Did these results line up with expectations?
-* What went wrong?
-* If the data do not support your hypothesis, is there another hypothesis that describes your new data?
+
 
 ## Conclusions
-Explain what you have learned and how that influences your next steps. Why does what you discovered matter to AguaClara?
-
-Make sure that you defend your conclusions with facts and results.
+The first preliminary test indicated that humic acid solution obeys the Beer's Law so that we could continue to use the spectrophotometer to determine the humic acid concentration. More results will be updated in the future.
 
 ## Future Work
-Describe your plan of action for the next several weeks of research. Detail the next steps for this team. How can AguaClara use what you discovered for future projects? Your suggestions for challenges for future teams are most welcome. Should research in this area continue?
+
+For the rest of the semester, more experiments will be run for the second and the third preliminary tests. Then the team will start investigate the effluent humic acid concentration change as the coagulant dosage increases.The main goal of the team’s current research is to develop a relationship among the absorbances of a humic-acid-only influent, a clay-only influent, and a mix of clay and humic acid influent. By figuring out the relationship among these absorbances, spectroscopy can be used to figure out the concentrations of clay and humic acid in an influent or an effluent stream.This will then allow AguaClara plants to assess the efficiency and effectiveness of current water treatment processes.
+
 
 ## Bibliography
 Logan, B. E., Hermanowicz, S. W., & Parker,A. S. (1987). A Fundamental Model for Trickling Filter Process Design. Journal (Water Pollution Control Federation), 59(12), 1029–1042.
 
 # Manual
-The goal of this section is to provide all of the guidance that would be necessary for a future team to pick up your work where you left off. Please try to be thorough and put yourselves in the shoes of a newcomer to the project. Below are some recommended sections, but the manual will likely take a slightly different form for each team.
 
-## Fabrication Details
-Include any information related to the fabrication of equipment, experimental apparatuses, or technologies. Include the purpose of each step and the fabrication methods used. Reference appropriate safety precautions.
-
-## Special Components
-If your subteam uses a particular part that is unique and you could foresee a future subteam needing to order it or learn more about it, please include basic information like the vendor where it was purchased, catalog/item number, and a link to any documentation.
-
-## Experimental Methods
+### Experimental Methods
 ### Set-up
-Step 1.
-* Put tasks in a sequential order.
-* It is okay to have sub-lists.
-  - Like this.
+* Choose the experimental set-up to standardize with other particle-removal subteams. Construct the recirculator and flocculator. The recirculator was constructed from clear PVC piping. The floc weir was attached to the recirculator with adhesive. The flocculator is made from plastic tubing, which is coiled around a cardboard cylinder.
+* Set up ProCoDA by determining what pumps and turbidimeters needed to be controlled based on experimentation purposes. For our experiment, we pump humic acid, water, and coagulant at constant rates, so they don't need to be controlled directly by ProCoDA. We just turn on or off these pumps manually by pressing the block switch on the pump. The turbidimeters and pressure sensor are also linked to ProCoDA to collect output data. On the other hand, the clay pump does need to be controlled by ProCoDA because the influent turbidity should keep at 100NTU. The clay pump is on while the ProCoDA program is operating.
+
 
 ### Experiment
-Step 1.
+* We collect data through ProCoDA and upload to Google Drive
+- The experiment run time varies so that we need to prepare stock solutions for at least 20-hour run time.
+* We adjust experimental designs based on results
+- For example, if the run time is long than our expectation, the dilution factor for the stock solution can be changed so the experiment has more time to reach steady state.
+* We will conduct multiple trials
+- To verify data is able to be reproduced, multiple trials for each coagulant concentration should be carried out, and the results should be compared for consistency in effluent turbidity.
+* Data Analysis
+- This consists of us looking at the excel sheet of data, and searching for the steady state in the data, which is where the effluent turbidity reaches a constant value. Then we plot the data from the start of the experiment until the steady state ends.
+* Note any observations and results while experimenting.
+
 
 ### Cleaning Procedure
-Step 1.
+* Clean flocculator: insert a tiny piece of sponge into one end of flocculator and connect that end to tap water by a push connecter. Turn on the sink and let the sponge run through. This should be done after every trial.
+* Clean turbidimeter: take out the glass vial from the turbidimeter and wash the vial using soap and a brush. Wipe the vial before putting it back into the turbidimeter. This should be done after every trial. The glass vial in the turbidimeter should be cleaned with kimwipes before returning the vial to the turbidimeter, because the kimwipes remove any fingerprints and potential interference to passing light through the clear vial. If the vial isn't cleaned properly, the effluent turbidity will likely appear higher than it actually is, because fingerprints will lower transmittance of light through the glass vial, which is how the turbidimeter measures turbidity. The less light that passes through the vial, the higher the effluent turbidity, because cloudy water prevents light from completely passing through to the other side of the vial. Fingerprints would essentially act like cloudy water in this case, and prevent light from passing through the vial, thus increasing the effluent turbidity.
+
 
 ## Experimental Checklist
-Another potential section could include a list of things that you need to check before running an experiment.
+Before starting the experiment:
+* sure ProCoDA is connected, and appropriately set up for data collection
+Check that the stock solutions are adequately filled
+Check that all tubing is connected properly, and no leaks are present in the system
+
+For ~5 minutes after starting the experiment:
+* Make sure the influent turbidity has stabilized around 100 NTU
+* Also check that the clay pump is below 80 RPM
+
+Later during the experiment:
+* Floc blankets should have formed in the recirculator
+* Check that there is still coagulant, clay and humic acid in their respective containers
+* Ensure that effluent turbidity is getting significantly lower as time progresses
+
 
 ## ProCoDA Method File
-Use this section to explain your method file. This could be broken up into several components as shown below:
 
 ### States
-Here, you should describe the function of each state in your method file, both in terms of its overall purpose and also in terms of the details that make it distinct from other states. For example:
-\begin{itemize}
-\item \underline{OFF} - Resting state of ProCoDA. All sensors, relays, and pumps are turned off.
-\end{itemize}
+* OFF - Resting state of ProCoDA. All sensors, relays, and pumps are turned off.
+* ON - Active state of ProCoDA. All sensors,, relays, and pumps are turned on. Data is collected
 
 ### Set Points
-Here, you should list the set points used in your method file and explain their use as well as how each was calculated.
+* OFF: value = 0; type = constant
+* ON: value = 1; type = constant
+* unitID: value = 1: type = constant
+* Turbidity Target: unit = NTU; type = constant
+* P: value = 300m; type = constant
+* i: value = 2.3; type = constant
+* D: value = 0; type = constant
+* Effluent Turbidimeter ID: value = 1: type = constant
+* Effluent Turbidity: unit = NTU; type = variable; HF turbidimeter function
+* Influent Turbidimeter ID: value = 2; type = constant
+* Influent Turbidity: unit = NTU; type = variable; HF turbidimeter function
+ Pump Control(clay): type = variable; feedback control - PID set point no reset function; This set point controls the rpm of the clay pump to set the influent turbidity at 100 NTU
+
+
+
 
 ## Python Code
 
-### Variables
-$g$: gravity
-$\sigma$: dispersion
-$a$: amplitude
-$h$: water depth
-$H$: distance from wave crest to trough (2$a$)
-$T$: wave period
-$\lambda$: wavelength
-$k$: wavenumber
-$c_p$: celerity (wave phase speed)
-$P$: pressure
-$F$: force
-$u$, $w$: x-velocity, z-velocity components
 
 ```python
 # Comment
 ```
 
-# Add/Delete/Change this Template as you see Fit
-When using this template keep in mind that this serves three purposes. The first is to provide your team feedback on your progress, assumptions, and conclusions. The second is to keep your team focused on what you are learning and doing for AguaClara. Another is to educate future teams on what you've learned and done. This document should be comprehensive, consistent, and well-written. With that in mind, add, subtract, or move sections. Reach out to the RAs and graders for help with figuring out what should or shouldn't include. Focus on how wonderful a reference you are making through this and work hard on communicating amongst yourselves and with future teammates. (Delete this section before submitting)
-
+#
 ```python
 # To convert the document from markdown to pdf
 pandoc Name_of_this_file.md -o TeamName_Research_Report.pdf
