@@ -57,7 +57,7 @@ Figure 1: Sedimentation Tank Model
 To standardize with setup of other dissolved species sub-teams, the team also used PVC pipe to mimic the sedimentation tank. 1-inch clear PVC pipe was chosen and fabricated so that the experimental apparatus had a 50 cm recirculator (14) and 35 cm tube settler(15). The floc wire was 40 cm and the bent angle of tube settler was angled 60 degrees relative the horizontal. The length of the tube settler was determined so that a capture velocity of .308 mm/s would be achieved at the end of the reactor. The design was obtained from High Rate Sedimentation sub-team.  
 
 ###### Other Apparatus
-<img src="https://github.com/AguaClara/humic_acid/blob/master/System%20setup%20new..jpg?raw=true" height=250 width=350>
+<img src="https://github.com/AguaClara/humic_acid/blob/master/apparatus2018.png?raw=true" height=250 width=400>
 
 Figure 2: Other apparatus consisting of pumps, turbidimeters, flocculator and a spectrophotometer.
 
@@ -81,7 +81,7 @@ The first preliminary experiment is to confirm that humic acid particles will ob
 
 The second preliminary test is to develop a relationship between the clay solution turbidity and absorbance. The team used the ProCoDA to control clay solution turbidity  at 10NTU, 20NTU and 30NTU and then measured the absorbance respectively. The importance of the second preliminary test is with the assumption that only clay particles affect the effluent turbidity reading, the team can calculate the clay absorbance based on the effluent turbidity and subtract the clay absorbance from the total absorbance to get the pure humic acid absorbance. This assumption could be further confirmed by the third preliminary test.
 
-<img src="https://github.com/AguaClara/humic_acid/blob/master/SchematicDraw.TestClay.png?raw=true" height=250 width=400>
+<img src="https://github.com/AguaClara/humic_acid/blob/master/scheme2018.png?raw=true" height=250 width=400>
 
 Figure 3: The schematic graph for the second preliminary test
 
@@ -117,22 +117,16 @@ The following experiments try to determine the relationship between various infl
 
 ## Results and Analysis
 
-Following the first preliminary experiment, the data points collected were plotted on an Absorbance vs. Concentration of Humic Acid graph, shown below.  This was done in order to confirm that the data collected obeyed Beer's Law.
+Following the first preliminary experiment, the data points collected were plotted on an Absorbance vs. Concentration of Humic Acid graph, shown below.  This was done in order to confirm that the data collected obey Beer's Law.
 
-The plot of Absorbance at 254 nm vs. Concentration of Humic Acid is linear.  This is expected because the graph should follow Beer’s Law, which states that absorbance is the absorptivity constant times the length of the UV light path times the concentration of the species.  If a linear regression were to be plotted for the graph above, the slope would the absorptivity constant times the length of the light path.  Since the Beer’s Law relationship was confirmed with the species used in this experiment, future experiments can be conducted to calculate concentration, given that the absorption, absorptivity constant, and path length are known.
+The plot of Absorbance at 254 nm vs. Concentration of Humic Acid is linear.  This is expected because the graph should follow Beer’s Law, which states that absorbance is proportional to the concentration of the species.  If a linear trend line is plotted for the graph above, the slope will be the absorptivity constant times the length of the light path.  Since the Beer’s Law relationship was confirmed with the species used in this experiment, future experiments can be conducted to calculate concentration, given that the absorption, absorptivity constant, and path length are known.
 
-```python
-from aide_design.play import*
-x = np.array([0，5，10，15])
-y = np.array([0.003，0.141，0.316，0.446])
-plt.plot(x,y,'*')
-plt.xlabel('Concentration of Humic Acid(mg/L)')
-plt.ylabel('Absorbance at 254 nm(AU)')
-plt.title('Humic Acid: Absorbance at 254 nm vs. Concentration')
-plt.savefig('/Users/vanessa/github/humic_acid/test1.png')
-plt.show()
-```
-![test1](https://github.com/AguaClara/humic_acid/blob/master/test1.png?raw=true)
+The plot was created by python code and code can be found in the "Python Code" section.
+
+<img src="https://github.com/AguaClara/humic_acid/blob/master/test1.png?raw=true" height=250 width=400>
+
+Figure 4: The results for preliminary test #1
+
 
 ## Conclusions
 The first preliminary test indicated that humic acid solution obeys the Beer's Law so that we could continue to use the spectrophotometer to determine the humic acid concentration. More results will be updated in the future.
@@ -211,9 +205,17 @@ Later during the experiment:
 
 ## Python Code
 
-
+* code for plotting preliminary test #1 
 ```python
-# Comment
+from aide_design.play import*
+xArray = [0, 5, 10, 15]
+yArray = [0.003, 0.141, 0.316, 0.446]
+plt.plot(xArray,yArray)
+plt.xlabel('Concentration of Humic Acid(mg/L)')
+plt.ylabel('Absorbance at 254 nm(AU)')
+plt.title('Humic Acid: Absorbance at 254 nm vs. Concentration')
+plt.savefig('/Users/vanessa/github/humic_acid/test1.png')
+plt.show()
 ```
 
 #
