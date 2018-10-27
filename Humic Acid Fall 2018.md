@@ -117,10 +117,9 @@ The following experiments try to determine the relationship between various infl
 
 ## Results and Analysis
 
+Following the first preliminary experiment, the data points collected were plotted on an Absorbance vs. Concentration of Humic Acid graph, shown below.  This was done in order to confirm that the data collected obeyed Beer's Law.
 
-
-The plot of Absorbance at 254 nm vs. Concentration of Humic Acid is linear.  This is expected because the graph should follow Beer’s Law, which statesA=lc: absorbance is the absorptivity constant times the length of the UV light path times the concentration of the species.  If a linear regression were to be plotted for the graph above, the slope would the the the absorptivity constant times the length of the light path.  Since the Beer’s Law relationship was confirmed with the species used in this experiment, future experiments can be conducted to calculate concentration, given that the absorption, absorptivity constant, and path length are known.
-
+The plot of Absorbance at 254 nm vs. Concentration of Humic Acid is linear.  This is expected because the graph should follow Beer’s Law, which states that absorbance is the absorptivity constant times the length of the UV light path times the concentration of the species.  If a linear regression were to be plotted for the graph above, the slope would the absorptivity constant times the length of the light path.  Since the Beer’s Law relationship was confirmed with the species used in this experiment, future experiments can be conducted to calculate concentration, given that the absorption, absorptivity constant, and path length are known.
 
 ```python
 from aide_design.play import*
@@ -134,9 +133,6 @@ plt.savefig('/Users/vanessa/github/humic_acid/test1.png')
 plt.show()
 ```
 ![test1](https://github.com/AguaClara/humic_acid/blob/master/test1.png?raw=true)
-
-
-
 
 ## Conclusions
 The first preliminary test indicated that humic acid solution obeys the Beer's Law so that we could continue to use the spectrophotometer to determine the humic acid concentration. More results will be updated in the future.
