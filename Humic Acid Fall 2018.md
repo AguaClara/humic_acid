@@ -2,11 +2,11 @@
 #### Matthew Lee, Vanessa Qi, Carolyn Wang
 #### September 28, 2018
 
-[EM: Hi all, I will be putting my comments below the paragraph in which I am referencing. To remind you, the score this report recieves will not count towards your overall grade. This draft is to serve as a stepping-stone for future report. As always, if you have any questions, feel free to contact us at aguaclaragraders@gmail.com!]
+[Shuo: Hello Humic Acid! I'll write my comments in the square brackets like this. Please feel free to delete these when you revise or update your report. Overall, you did a good job on the second report draft despite some typos and format issues. Focus on where you can improve and looking forward to your next report!]
 
 ## Abstract
 The Fall 2018 Humic Acid Team will focus on testing the effluent humic acid concentration changes as coagulant dosage increases for influent humic acid at 5mg/L, 10mg/L and 15mg/L trials. The new AccuView spectrophotometer will be used to measure the flow absorbance and corresponding species concentrations will be calculated from recorded absorbances with Beer's Law. The team expects to develop better understanding of humic acid concentration changes through the overall experimental system and how humic acid particles interact with clay particles inside the sedimentation model.
-
+[Concise and clear abstract. State the importance of the research if possible.]
 
 ## Introduction
 Natural Organic Matter (NOM) exists in ground and surface waters with various chemical compositions. It is dipolar and can serve as a nutrient for bacteria, viruses, and pathogens, encouraging their re-germination processes. Additionally, NOM produces carcinogenic by-products during the degradation process. It then becomes imperative to remove NOM in water. The amount of NOM in raw water supplies is greater in areas such as Northern Europe and North America. However, there isn't a robust model predicting how NOM behaves in water and thus, there are not effective treatment methods for NOM removal. Limited knowledge in this area affects drinking water treatment significantly. Many researchers believe the role of NOM in water might call for a need to increase coagulant doses.
@@ -19,6 +19,9 @@ Table 1: Results from Spring 2018 Humic Acid Team
 | ------------------------ | ------------------------ |
 | 5                   | 1.6-1.8              |
 | 10                         | 1.3                         |
+
+[The table above is not shown as it should be. You may find this link helpful:
+https://confluence.cornell.edu/display/AGUACLARA/Style+Guide+for+Figures%2C+Tables%2C+and+Equations]
 
 Even though the humic acid concentration doubled, the difference between optimal coagulant dosages was negligible. Therefore, the Team decided to change our research path. Instead of continuing to test optimal coagulant dosage for different humic acid concentrations, the Fall 2018 Team will investigate how effluent humic acid concentration changes as coagulant dosage increases at a certain humic acid influent concentration. To determine the effluent humic acid concentration, the Team will use AccuView spectrophotometer to measure the flow absorbance and calculate the concentration of corresponding species in the flow with Beer's Law. The results of these experiments enable the Team to develop relationships between effluent humic acid concentrations and coagulant dosages for a certain humic acid influent concentration. With more available information of NOM in local water supplies, AguaClara could better adjust the coagulant dosage to achieve lower effluent turbidities and save money on coagulant.
 
@@ -35,6 +38,7 @@ Because of the aforementioned factors, such as pH value, that influence NOM remo
 Yingda Du, a former graduate student at Cornell, was the first to experiment with how effluent turbidity is affected by a combination of coagulant concentration and humic acid concentration. Her thesis paper investigates the effects NOM has on flocculation. Particle size distribution of flocs and effluent turbidity are the two major criteria for determining the effectiveness of flocculation. These two parameters are affected by the concentration of NOM in the system. In order to model this system, humic acid, which is one of the major components of NOM, serves as the surrogate for NOM. Du hypothesized that variation in humic acid concentration will affect floc size distribution and effluent turbidity. In her thesis, she modeled the effects of humic acid in high turbidity water on flocculation. For influent turbidity at 50 NTU with coagulant dosage ranging from 0.53mg/L to 2.65mg/L and humic acid concentration ranging from 0 to 15mg/L, a series of experiments from Yingda indicate that the coagulant dosage is positively correlated with turbidity reduction and the presence of humic acid greatly increases the effluent turbidity. This was same for every experiment. An increase in coagulant dosage decreased the settled water turbidity.
 
 Another finding from Du's report is that the presence of humic acid increases the frequency of smaller particles after flocculation. As humic acid coats coagulant nano-particles, the attachment efficiency of collisions will decrease. Thus, humic acid can change the particle size distribution of the precipitated solids and larger particle formation is greatly inhibited by humic acid.This result indicates that existence of humic acid particles could diminish the performance of flocculation/sedimentation process with higher effluent turbidity.
+[You are encouraged to put on some useful links to the related articles. Use more logical transitions between paragraphs. Each report looks good but they look disjointed when combined.]
 
 ## Previous Work
 The Humic Acid Team as established in Fall 2017 and in that semester, the team members tested the optimal coagulant dosage at 5mg/L humic acid influent concentration and obtained 1.6mg/L as the optimal coagulant dosage. However, as the team only conducted experiment for one humic acid influent concentration, no substantial conclusion was drawn.
@@ -42,8 +46,7 @@ The Humic Acid Team as established in Fall 2017 and in that semester, the team m
 The Spring 2018 Humic Acid subteam verified the previous semester's result and tested optimal coagulant dosages for 5m/L and 10mg/L HA concentrations. The results are shown in Table 1 above. As the HA concentration increases, the optimal coagulant dosage drops down slightly. However, the team cannot conclude that the increasing of HA concentration will decrease the optimal coagulant dosage, as more different HA concentrations should be tested.In addition, the team found that for one trial, the head loss through the flocculator accumulates with time. This phenomenon might explain why the effluent turbidity rises up again after the experiment reaches steady state.
 
 In terms of importance to the world in general, the coagulant concentration should not be too high because it is expensive and potentially harmful to the water quality. Too much coagulant will prevent flocculation which is counter-productive. Too little coagulant means the water still potentially has significant levels of humic acid, which will be problematic once chlorine is used to kill bacteria in the water. The humic acid and chlorine will react to form chloroform which is very harmful to humans.
-
-
+[Pay attention to some format issues and similarly, put on some useful links or related graphs to show the result of previous work.]
 
 ## Methods
 #### Experimental Apparatus
@@ -71,7 +74,7 @@ The AccuView spectrophotometer was added into the experimental apparatus to meas
 
 
 ######Complications
-There were complications in integrating the spectrophotometer into the system and there was leaking problem at the spectrophotometer's inlet. The team then realized that the tubing ends were not smooth and did not fit into the push connectors well, allowing water to leak from the system.  The short rough ends of the tubing were cut off and then reconnected to the spectrophotometer, resolving the leaking water issue.
+There were complications in integrating the spectrophotometer into the system and there was leaking problem at the spectrophotometer's inlet. The team then realized that the tubing ends were not smooth and did not fit into the push connectors well, allowing water to leak from the system.  The short rough ends of the tubing were cut off and then reconnected to the spectrophotometer, resolving the leaking water issue. [Fix the heading format above. Preview the report before submitting it.]
 
 #### Experimental Methods
 
@@ -127,9 +130,11 @@ The plot was created by python code and code can be found in the "Python Code" s
 
 Figure 4: The results for preliminary test #1
 
+[Explain and analyze the figure you get in detail.]
+
 
 ## Conclusions
-The first preliminary test indicated that humic acid solution obeys the Beer's Law so that we could continue to use the spectrophotometer to determine the humic acid concentration. More results will be updated in the future.
+The first preliminary test indicated that humic acid solution obeys the Beer's Law so that we could continue to use the spectrophotometer to determine the humic acid concentration. More results will be updated in the future. [The conclusion part needs more details. For example, why is your observation important to your future work.]
 
 ## Future Work
 
@@ -158,6 +163,8 @@ Logan, B. E., Hermanowicz, S. W., & Parker,A. S. (1987). A Fundamental Model for
 - This consists of us looking at the excel sheet of data, and searching for the steady state in the data, which is where the effluent turbidity reaches a constant value. Then we plot the data from the start of the experiment until the steady state ends.
 * Note any observations and results while experimenting.
 
+[Get rid of first pronouns.]
+
 
 ### Cleaning Procedure
 * Clean flocculator: insert a tiny piece of sponge into one end of flocculator and connect that end to tap water by a push connecter. Turn on the sink and let the sponge run through. This should be done after every trial.
@@ -169,6 +176,7 @@ Before starting the experiment:
 * sure ProCoDA is connected, and appropriately set up for data collection
 Check that the stock solutions are adequately filled
 Check that all tubing is connected properly, and no leaks are present in the system
+[Fix the typo before "ProCoDA".]
 
 For ~5 minutes after starting the experiment:
 * Make sure the influent turbidity has stabilized around 100 NTU
