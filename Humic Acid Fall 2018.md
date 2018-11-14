@@ -72,7 +72,7 @@ The AccuView spectrophotometer was added into the experimental apparatus to meas
 
 
 ######Complications
-There were complications in integrating the spectrophotometer into the system and there was leaking problem at the spectrophotometer's inlet. The team then realized that the tubing ends were not smooth and did not fit into the push connectors well, allowing water to leak from the system.  The short rough ends of the tubing were cut off and then reconnected to the spectrophotometer, resolving the leaking water issue. [Fix the heading format above. Preview the report before submitting it.]
+There were complications in integrating the spectrophotometer into the system and there was leaking problem at the spectrophotometer's inlet. The team then realized that the tubing ends were not smooth and did not fit into the push connectors well, allowing water to leak from the system.  The short rough ends of the tubing were cut off and then reconnected to the spectrophotometer, resolving the leaking water issue.
 
 #### Experimental Methods
 
@@ -151,7 +151,17 @@ As seen in figure 6 above, there is a linear relationship between clay turbidity
 
 
 ## Conclusions
-The first preliminary test indicated that humic acid solution obeys the Beer's Law so that we could continue to use the spectrophotometer to determine the humic acid concentration. More results will be updated in the future. [The conclusion part needs more details. For example, why is your observation important to your future work.]
+The first preliminary test indicated that humic acid solution obeys the Beer's Law.  The results from this test prove that the spectrophotometer could be used in the future to determine humic acid concentration.
+
+The results from the second preliminary test proved that humic acid samples run through the experimental apparatus also follow Beer's Law relationship.  Through linear regression, the linear relationship between humic acid concentration and its absorbance was obtained:
+y = 0.227x + 0.262
+
+Where y is the abosrbance and x is the concentration of humic acid.  Since Beer's Law is upheld by this experiment,  spectrophotometry can therefore be utilized to analyze absorbances of humic acid in the system.
+
+The results from the third preliminary test showed that the clay turbidity and the absorbance of clay are related linearly.  The relationship was obtained:
+y = 0.0199x + 0.0554
+
+Where y is the absorbance of clay and x is the turbidity.  This relationship was derived by performing a linear regression on the data collected in test 3.  This relationship has big implications for the team's future work: by measuring the effluent turbidity of a clay-humic-acid sample, the absorbance of the clay can be calculated using the equation above.  The absorbance of clay can be subtracted from the total absorbance reading from the spectrophotometer, yielding the humic acid absorbance in the stream.  Ultimately, this calculation will allow for future work in determining effluent humic acid concentration and the effectiveness of the treatment process for humic acid.
 
 ## Future Work
 
@@ -170,17 +180,17 @@ Logan, B. E., Hermanowicz, S. W., & Parker,A. S. (1987). A Fundamental Model for
 
 
 ### Experiment
-* We collect data through ProCoDA and upload to Google Drive
-- The experiment run time varies so that we need to prepare stock solutions for at least 20-hour run time.
-* We adjust experimental designs based on results
-- For example, if the run time is long than our expectation, the dilution factor for the stock solution can be changed so the experiment has more time to reach steady state.
-* We will conduct multiple trials
+* Collect data through ProCoDA and upload to Google Drive
+- The experiment run time varies so that stock solutions need to be prepared to last for at least 20-hour run time.
+* Experimental designs are adjusted based on results
+- For example, if the run time is longer than our expectation, the dilution factor for the stock solution can be changed so the experiment has more time to reach steady state.
+* Multiple trials are conducted
 - To verify data is able to be reproduced, multiple trials for each coagulant concentration should be carried out, and the results should be compared for consistency in effluent turbidity.
 * Data Analysis
-- This consists of us looking at the excel sheet of data, and searching for the steady state in the data, which is where the effluent turbidity reaches a constant value. Then we plot the data from the start of the experiment until the steady state ends.
+- This consists of looking at the excel sheet of data, and searching for the steady state in the data, which is where the effluent turbidity reaches a constant value. Then the data is plotted from the start of the experiment until the steady state ends.
 * Note any observations and results while experimenting.
 
-[Get rid of first pronouns.]
+
 
 
 ### Cleaning Procedure
