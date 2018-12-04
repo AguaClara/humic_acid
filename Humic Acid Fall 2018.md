@@ -16,8 +16,9 @@ The Spring 2018 Humic Acid subteam investigated the optimal coagulant dosage for
 Table 1: Results from Spring 2018 Humic Acid Team
 | Humic Acid Concentration(mg/L) | Optimal Coagulant Dosage(mg/L) |
 | ------------------------------ | ------------------------------ |
-| 5                   | 1.6-1.8              |
-| 10                         | 1.3                         |
+| 5                              | 1.6-1.8                        |
+| 10                             | 1.3                            |
+|                                |                                |
 
 
 Even though the humic acid concentration doubled, the difference between optimal coagulant dosages was negligible. Therefore, the Team decided to change our research path. Instead of continuing to test optimal coagulant dosage for different humic acid concentrations, the Fall 2018 Team investigated how effluent humic acid concentration changes as coagulant dosage increases at a certain humic acid influent concentration. To determine the effluent humic acid concentration, the Team used AccuView spectrophotometer to measure the flow absorbance and calculated the concentration of corresponding species in the flow with Beer's Law. The results of these experiments enabled the Team to develop relationships between effluent humic acid concentrations and coagulant dosages for a certain humic acid influent concentration. With more available information of NOM in local water supplies, AguaClara could better adjust the coagulant dosage to achieve lower effluent turbidities and save money on coagulant.
@@ -59,7 +60,7 @@ Figure 1: Sedimentation Tank Model
 To standardize with setup of other dissolved species sub-teams, the team also used PVC pipe to mimic the sedimentation tank. 1-inch clear PVC pipe was chosen and fabricated so that the experimental apparatus had a 50 cm recirculator (14) and 35 cm tube settler(15). The floc weir was 40 cm and the bent angle of tube settler was angled 60 degrees relative the horizontal. The length of the tube settler was determined so that a capture velocity of .308 mm/s would be achieved within the reactor. The design was obtained from High Rate Sedimentation sub-team.
 
 ###### Other Apparatus
-<img src="https://github.com/AguaClara/humic_acid/blob/master/humic_acid_2018_fall_apparatus.png?raw=true">
+<img src="https://github.com/AguaClara/humic_acid/blob/master/humic_acid_2018_fall_apparatus.png?raw=true" height = 300 width = 400>
 
 Figure 2: Other apparatus consisting of pumps, turbidimeters, flocculator and a spectrophotometer.
 
