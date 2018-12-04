@@ -13,3 +13,6 @@ MID_TERM:https://docs.google.com/presentation/d/1WhlOpS7-zDgBEVWpxslgF47diGmiENR
 
 
 FINAL: https://docs.google.com/presentation/d/1WWeLWujAvs1gAJBObuGA-5X7T3NqBUaTTGOlpCc7-zs/edit#slide=id.g497ff1acb2_1_0
+
+
+FINAL PRESENTATION LINK: https://www.youtube.com/watch?v=IO0-0WZ0PjI&index=8&list=PLhsGtpY8ipdZTn2HPI6C2uH44ADmc0Ra6
