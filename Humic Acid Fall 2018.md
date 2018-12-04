@@ -14,11 +14,14 @@ Natural Organic Matter (NOM) exists in ground and surface waters with various ch
 The Spring 2018 Humic Acid subteam investigated the optimal coagulant dosage for certain humic acid inffluent concentrations and results are shown in Table 1 below:
 
 Table 1: Results from Spring 2018 Humic Acid Team
+
+
+
+
 | Humic Acid Concentration(mg/L) | Optimal Coagulant Dosage(mg/L) |
 | ------------------------------ | ------------------------------ |
 | 5                              | 1.6-1.8                        |
 | 10                             | 1.3                            |
-|                                |                                |
 
 
 Even though the humic acid concentration doubled, the difference between optimal coagulant dosages was negligible. Therefore, the Team decided to change our research path. Instead of continuing to test optimal coagulant dosage for different humic acid concentrations, the Fall 2018 Team investigated how effluent humic acid concentration changes as coagulant dosage increases at a certain humic acid influent concentration. To determine the effluent humic acid concentration, the Team used AccuView spectrophotometer to measure the flow absorbance and calculated the concentration of corresponding species in the flow with Beer's Law. The results of these experiments enabled the Team to develop relationships between effluent humic acid concentrations and coagulant dosages for a certain humic acid influent concentration. With more available information of NOM in local water supplies, AguaClara could better adjust the coagulant dosage to achieve lower effluent turbidities and save money on coagulant.
