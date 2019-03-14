@@ -7,6 +7,7 @@
 
 ## Abstract
 The Spring 2019 Humic Acid Team will focus on investigating the behaviour of the absorbances of humic-acid clay mixtures. This will be done through a new, recycled flow system. The AccuView spectrophotometer will be used to test the absorbance of humic acid and clay. Humic acid samples of with **[Grammar error]** concentrations of 5mg/L, 10mg/L and 15mg/L will be tested. Clay samples of NTU of 10, 20, 30, and 100 NTU will be tested as well. Influent streams containing both humic acid and clay will then be run through the system, and the absorbance will be analyzed in comparison with pure humic acid and pure clay absorbances.
+Samples of HA at 5mg/L, 10mg/L and 15mg/L and concentrations of clay at 10 NTU, 100 NTU and 100 NTU are tested separately to find the respective absorbances. The individual absorbances recorded are used to compare with the mixture of different concentrations of clay and HA to find the additive aspects of the mixture.
 
 **[This is a good start to writing the abstract, but too focused on the details of what you are doing for experiments. Try to write more about the purpose and goals of your work this semester. The abstract should give a brief overview of the research.]**
 
