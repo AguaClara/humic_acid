@@ -140,12 +140,15 @@ In the second set of experiments, different clay turbidities were tested and the
 Mixture
 
 Figure 4: 5 mg/L with Clay
+
 <img src="https://github.com/AguaClara/humic_acid/blob/master/5%20mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400> 
 
 Figure 5: 10 mg/L with Clay
+
 <img src="https://github.com/AguaClara/humic_acid/blob/master/10mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400> 
 
 Figure 6: 15 mg/L with Clay 
+
 <img src="https://github.com/AguaClara/humic_acid/blob/master/15%20mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400> 
 
 
