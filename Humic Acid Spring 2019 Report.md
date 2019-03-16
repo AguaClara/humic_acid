@@ -156,12 +156,8 @@ There were complications in the experiment that could have resulted in discrepan
 
 ## Conclusions
 ## Future Work
+The team will continue to conduct the experiment with a mixture of HA and clay at 500 NTU and 800 NTU. Currently, the results are not sufficient to show any notable relationships between Humic Acid and Clay because the level at 1000 NTU (although close to the turbidity of influent water in water treatment plants) is the maximum NTU that the turbidimeter in the lab can test, therefore the results might not be accurate. If the team finds any interactions between clay and Humic Acid, the next step will be to centrifuge the mixed samples to determine and further understand how much Humic Acid is sticking to Clay. 
 
-
-**[You should talk about how the current team is going to build off of the previous work here.]**
-
-
-**[Hi team, good start to your report. There are some grammar, spelling, and citation errors throughout your report. Please go back and address them. I think you could restructure your Introduction a bit to be more overarching and to discuss more about your goals and purpose. I would like to see more use of figures to back up your claims about research done in previous semesters. Don't forget to also address Jonathan's comments. Looking forward to reading your next report!]**
 
 ## Bibliography
 Logan, B. E., Hermanowicz, S. W., & Parker,A. S. (1987). A Fundamental Model for Trickling Filter Process Design. Journal (Water Pollution Control Federation), 59(12), 1029–1042.
