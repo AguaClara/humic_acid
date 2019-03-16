@@ -141,26 +141,32 @@ In the second set of experiments, different clay turbidities were tested and the
 
 Mixture
 
-Figure 4: 5 mg/L with Clay
+Figure 4: 5 mg/L of Humic Acid with Clay
 
 <img src="https://github.com/AguaClara/humic_acid/blob/master/5%20mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400> 
 
+It can be seen that at low turbidity, the projected absorbances - the absorbance of pure humic acid added with the absorbance of clay - are approximately equal to the observed absorbance of the mixture influent.  However, as NTU increased, the ideal projected absorbance diverged quickly with the observed absorbances.  This suggests that there are humic-acid clay interactions present that do not allow for mixture absorbances to be strictly additive. 
 
-
-
-Figure 5: 10 mg/L with Clay
+Figure 5: 10 mg/L of Humic Acid with Clay
 
 <img src="https://github.com/AguaClara/humic_acid/blob/master/10mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400> 
 
-Figure 6: 15 mg/L with Clay 
+Similar to the results of the 5 mg/L humic acid mixture stream, the projected absorbances are approximately equal to the observed absorbance of the mixture influent.  Again, however, the projected absorbance quickly became a poor approximation as NTU increased.  This further suggests that there are interactions between humic acid and clay that affect absorbance readings.
+
+Figure 6: 15 mg/L of Humic Acid with Clay 
 
 <img src="https://github.com/AguaClara/humic_acid/blob/master/15%20mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400> 
+
+The 15 mg/L humic acid mixture streams exhibited different a behaviour in comparison to the 5 and 10 mg/L humic acid mixture streams.  Even at low NTU, the observed absorbances for the 15 mg/L humic acid mixture streams were not equal to the projected absorbance.  For 15 mg/L humic acid mixtures, the absorbances did not prove to be additive for any NTU that was tested.  This result suggests that as humic acid concentration increases in a given mixture, the observed absorbance is not a purely additive result. 
+
 
 ## Complications
 There were complications in the experiment that could have resulted in discrepancies. Although no problems were encountered during the verification and calibration of the spectrophotometer, absorbance readings fluctuated between the days when experiments were carried out.  This complication persisted even though same streams were flowing through the system as in previous experimental trials (i.e. water, 5 mg/L humic acid).  Absorbances were sometimes 0.1 to 0.2 higher than usual. There were also minor amounts of clay left in tubes after flushing out the systems at high pump speed.  
 
 ## Conclusions
+The absorbance of humic acid and clay mixture streams are not purely additive across the full NTU spectrum.  At low turbidity, mixtures containing 5 mg/L and 10 mg/L humic acid concentrations were approximately equal to the purely additive, projected absorbance.  As NTU increased, however, the observed absorbance diverged from the projected absorbance.  For the 15 mg/L humic acid mixture, the observed absorbance was not approximately equal to the projected absorbance, even at low NTU.
 
+It is known that humic acid can stick to clay when the two are mixed together.  In theory, the absorbance would become lower than the projected absorbance after the humic acid sticks to the clay, as more light would be able to pass through the mixture.  From the data collected, however, the observed absorbance became higher than the projected absorbance, contradicting previous thought.  More research is needed to understand why this result occured.
 
 ## Future Work
 The team will continue to conduct the experiment with a mixture of HA and clay at 500 NTU and 800 NTU. Currently, the results are not sufficient to show any meaningful relationships between Humic Acid and Clay because influent mixture streams with 1000 NTU have maxed out the readings on the equipment used in the experiment (absorbance maxed out at 2, turbidity meter maxed out at 1100).
