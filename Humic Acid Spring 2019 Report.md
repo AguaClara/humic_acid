@@ -261,5 +261,7 @@ plt.show()
 ```
 
 
-
+# To convert the document from markdown to pdf
+pandoc Name_of_this_file.md -o TeamName_Research_Report.pdf
+```
 ```
