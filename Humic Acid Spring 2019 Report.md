@@ -54,7 +54,7 @@ Figure 1: The linear relationship derived between humic acid absorbance and humi
 
 The plot was created by python code and code can be found in the "Python Code" section.
 
-Clay mixtures were run through the turbidity meter and spectrophotmeter.  Results showed that the turbifity and absorbance of clay were related linearly. The relationship was obtained: $$ y=0.0199x+0.0554 $$, where y is the absorbance and x is the turbidity of clay.This relationship implies by measuring the effluent turbidity of a clay sample, the absorbance of clay can be calculated using the equation above. Fall 2018's work in using absorbance gives future teams data for future spectroscopy work. 
+Clay mixtures were run through the turbidity meter and spectrophotmeter.  Results showed that the turbidity and absorbance of clay were related linearly. The relationship was obtained: $$ y=0.0199x+0.0554 $$, where y is the absorbance and x is the turbidity of clay.This relationship implies by measuring the effluent turbidity of a clay sample, the absorbance of clay can be calculated using the equation above. Fall 2018's work in using absorbance gives future teams data for future spectroscopy work. 
 
 Figure 2: The linear relationship derived between clay absorbance and clay turbidity can be used to extrapolate the absorbances of other clay turbidities.
 
