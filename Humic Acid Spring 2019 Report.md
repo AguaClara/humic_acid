@@ -85,9 +85,9 @@ Figure 3: A schematic drawing of the experimental system set-up
 
 
 #### Procedure
-The following experiments help to determine the relationship between various influent mixtures and the corresponding absorbances.
+The following experiments were run in the recylced system to determine the relationship between various influent mixtures and their corresponding absorbances.
 
-Humic Acid:
+Humic Acid only influent trials:
 * Flush the system at high pump speed with distilled water
 * Empty the system of waters
 * Fill the 6 L bucket with 6 L of water
@@ -95,7 +95,7 @@ Humic Acid:
 * Using 1.00 mL pipette, pipette 10 mL of the 3 g/L stock solution of Humic Acid to attain 5 mg/L (for 10 mg/L, pipette 20 mL, for 15 mg/L pipette 30 ML), use metal rod to mix well 
 * Record absorbances and turbidity readings after system reaches steady state for each concentration of Humic Acid
 
-Clay:
+Clay only influent trials:
 * Flush the system at high pump speed with distilled water
 * Empty the system of waters
 * Fill the 6 L bucket with 6 L of water
@@ -106,7 +106,7 @@ Clay:
 * Record absorbances and turbidity readings after system reaches steady state for clay trial
 
 
-Mixture: 
+Mixture influent trials: 
 * Flush the system at high pump speed with distilled water
 * Empty the system of waters
 * Fill the 6 L bucket with 6 L of water
@@ -145,6 +145,9 @@ Figure 4: 5 mg/L with Clay
 
 <img src="https://github.com/AguaClara/humic_acid/blob/master/5%20mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400> 
 
+
+
+
 Figure 5: 10 mg/L with Clay
 
 <img src="https://github.com/AguaClara/humic_acid/blob/master/10mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400> 
@@ -154,11 +157,14 @@ Figure 6: 15 mg/L with Clay
 <img src="https://github.com/AguaClara/humic_acid/blob/master/15%20mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400> 
 
 ## Complications
-There were complications in the experiment that could have resulted in discrepancies. Although during the verification stages of the spectrophotometer, no problems were encountered, in proceeding experiments, readings were 0.1 to 0.2 higher than usual. There were also minor amounts of clay left in tubes after flushing out the systems at high pump speed. Evaporation of Water is negligible. 
+There were complications in the experiment that could have resulted in discrepancies. Although no problems were encountered during the verification and calibration of the spectrophotometer, absorbance readings fluctuated between the days when experiments were carried out.  This complication persisted even though same streams were flowing through the system as in previous experimental trials (i.e. water, 5 mg/L humic acid).  Absorbances were sometimes 0.1 to 0.2 higher than usual. There were also minor amounts of clay left in tubes after flushing out the systems at high pump speed.  
 
 ## Conclusions
+
+
 ## Future Work
-The team will continue to conduct the experiment with a mixture of HA and clay at 500 NTU and 800 NTU. Currently, the results are not sufficient to show any notable relationships between Humic Acid and Clay because the level at 1000 NTU (although close to the turbidity of influent water in water treatment plants) is the maximum NTU that the turbidimeter in the lab can test, therefore the results might not be accurate. If the team finds any interactions between clay and Humic Acid, the next step will be to centrifuge the mixed samples to determine and further understand how much Humic Acid is sticking to Clay. 
+The team will continue to conduct the experiment with a mixture of HA and clay at 500 NTU and 800 NTU. Currently, the results are not sufficient to show any meaningful relationships between Humic Acid and Clay because influent mixture streams with 1000 NTU have maxed out the readings on the equipment used in the experiment (absorbance maxed out at 2, turbidity meter maxed out at 1100).
+If the team finds any interactions between clay and humic acid, the next step will be to centrifuge the mixed samples to further understand the effects of humic-acid-clay sticking interactions. 
 
 
 ## Bibliography
