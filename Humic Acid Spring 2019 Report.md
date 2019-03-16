@@ -46,7 +46,7 @@ The Humic Acid Team was established in Fall 2017 and in that semester, the team 
 The Spring 2018 Humic Acid subteam verified the previous semester's result and tested optimal coagulant dosages for 5m/L and 10 mg/L HA concentrations. The results are shown in Table 1 above. As the HA concentration increases, the optimal coagulant dosage drops down slightly. However, the team cannot conclude that the increasing of HA concentration will decrease the optimal coagulant dosage, as a wider range of HA concentrations should be tested. In addition, the team found that for one trial, the head loss through the flocculator accumulates with time. This phenomenon might explain why the effluent turbidity rises up again after the experiment reaches steady state.
 
 
-The Fall 2018 Humic Acid subteam introduced the spectrophotomer into the experimental apparatus.  This was done in order investigate the applicability of UV-spectroscopy in quantifying the concentration of humic acid in water streams.  The team ran several tests with humic acid (HA for short) solutions of 5 mg/L, 10 mg/L, and 15 mg/L through the 1600 UV spectrophotometer in the design lab at 254 nm. Results from this first preliminary test showed that there is a linear relationship between absorbance and humic acid concentration (equation of the line found to be $$ y=0.0453x+0.0351 $$ through linear regression; y is absorbance, x is concentration of HA).This result proved that HA solution obeyed Beer's Law, and spectrsocopy could be used to determine humic acid concentration.Humic acid solutions were then run through the AccuView spectrophotomer and an absorbance curve was plotted. The final preliminary experiment conducted was done with clay.  
+The Fall 2018 Humic Acid subteam introduced the spectrophotomer into the experimental apparatus.  This was done in order to investigate the applicability of UV-spectroscopy in quantifying the concentration of humic acid in water streams.  The team ran several tests with humic acid (HA for short) solutions of 5 mg/L, 10 mg/L, and 15 mg/L through the 1600 UV spectrophotometer in the design lab at 254 nm. Results from this first preliminary test showed that there is a linear relationship between absorbance and humic acid concentration (equation of the line found to be $$ y=0.0453x+0.0351 $$ through linear regression; y is absorbance, x is concentration of HA).This result proved that HA solution obeyed Beer's Law, and spectrsocopy could be used to determine humic acid concentration.Humic acid solutions were then run through the AccuView spectrophotomer and an absorbance curve was plotted. The final preliminary experiment conducted was done with clay.  
 
 Figure 1: The linear relationship derived between humic acid absorbance and humic acid concentration can be used to extrapolate the absorbances of other humic acid samples.
 
@@ -68,7 +68,7 @@ The Spring 2019 HA Team assembled a recycled system (Figure 3) to eliminate any 
 
 Additionally, in previous experiments, clay turbidity was controlled by ProCoda. In order to know the exact concentration of clay within the system, the second set of experiments focused on achieving 10 NTU, 100 NTU, 1000 NTU readings and measuring the amount of clay used, and verifying whether the relationship between clay concentration and absorbance held true for a recycled system. 
 
-The last set of experiments tested a mixture of clay at 10 NTU, 100 NTU, 1000 NTU, with HA at 5 mg/L. In the second set of experiments, the exact amount of clay associated with different concentrations was determined and can be directly used here. The readings on the turbidimeter and spectrophotometer was recorded. 
+The last set of experiments tested a mixture of clay at 10 NTU, 100 NTU, 1000 NTU, with HA at 5 mg/L. In the second set of experiments, the exact amount of clay associated with different concentrations was determined and can be directly used in this step. The readings on the turbidimeter and spectrophotometer was recorded. 
 
 Figure 3: A schematic drawing of the experimental system set-up
 
@@ -116,7 +116,7 @@ Stop the experiment by shutting down all the water pump, turbidimeter, spectroph
 
 
 ## Results and Analysis
-In the first set of experiments, different Humic Acid Concentrations were tested. Absorbance and Turbidity reading are recorded for later use. 
+In the first set of experiments, different Humic Acid Concentrations were tested. Absorbance and Turbidity readings are recorded for later use. 
 
 | Humic Acid Concentration(mg/L) |           Absorbance           |
 | ------------------------------ | ------------------------------ |
@@ -148,10 +148,10 @@ Similar to the results of the 5 mg/L humic acid mixture stream, the projected ab
 
 <img src="https://github.com/AguaClara/humic_acid/blob/master/15%20mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400> 
 
-Figure 6: The observed and projected absorbance of 15 mg/L of Humic Acid with Clay.  The projected absorbance is the absorbance of the mixture in the case where the total absorbance is the pure sum of 15 mg/L humic acid and the corresponding clay absorbance at a given NTU.  The absorbance of the mixture is not close the projected value at any NTU of clay. 
+Figure 6: The observed and projected absorbance of 15 mg/L of Humic Acid with Clay.  The projected absorbance is the absorbance of the mixture in the case where the total absorbance is the pure sum of 15 mg/L humic acid and the corresponding clay absorbance at a given NTU.  The absorbance of the mixture is not close to the projected value at any NTU of clay. 
 
 
-The 15 mg/L humic acid mixture streams exhibited different a behaviour in comparison to the 5 and 10 mg/L humic acid mixture streams.  Even at low NTU, the observed absorbances for the 15 mg/L humic acid mixture streams were not equal to the projected absorbance.  For 15 mg/L humic acid mixtures, the absorbances did not prove to be additive for any NTU that was tested.  This result suggests that as humic acid concentration increases in a given mixture, the observed absorbance is not a purely additive result. 
+The 15 mg/L humic acid mixture streams exhibited a different behaviour in comparison to the 5 and 10 mg/L humic acid mixture streams.  Even at low NTU, the observed absorbances for the 15 mg/L humic acid mixture streams were not equal to the projected absorbance.  For 15 mg/L humic acid mixtures, the absorbances did not prove to be additive for any NTU that was tested.  This result suggests that as humic acid concentration increases in a given mixture, the observed absorbance is not a purely additive result. 
 
 
 ## Complications
