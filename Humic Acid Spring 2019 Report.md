@@ -1,7 +1,7 @@
 
 # Humic Acid, Kaolin, Floc/Sed Model, Spring 2019
 #### Matthew Lee, Walter Guardado, Carolyn Wang
-#### February 22, 2019
+#### March 15, 2019
 
 ## Abstract
 Samples of HA at 5 mg/L, 10 mg/L and 15 mg/L and concentrations of clay at 10 NTU, 100 NTU and 100 NTU are tested separately to find the respective absorbances. The individual absorbances recorded are used to compare with the mixture of different concentrations of clay and HA to find the additive aspects of the mixture.
