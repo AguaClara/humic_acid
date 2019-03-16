@@ -78,6 +78,8 @@ Additionally, in previous experiments, clay turbidity was controlled by ProCoda.
 The last set of experiments tested a mixture of clay at 10 NTU, 100 NTU, 1000 NTU, with HA at 5 mg/L. In the second set of experiments, the exact amount of clay associated with different concentrations was determined and can be directly used here. The readings on the turbidimeter and spectrophotometer was recorded. 
 
 Figure 3: A schematic drawing of the experimental system set-up
+
+
 <img src="https://github.com/AguaClara/humic_acid/blob/master/Schematic%20Drawing%20SP19.png?raw=true" height=250 width=400>
 
 
