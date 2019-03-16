@@ -24,7 +24,7 @@ Table 1: Results from Spring 2018 Humic Acid Team
 | 10                             | 1.3                            |
 
 
-Even though the humic acid concentration doubled, the difference between optimal coagulant dosages was negligible. Therefore, the Team decided to change our research path. Instead of continuing to test optimal coagulant dosage for different humic acid concentrations, the Fall 2018 Team investigated how effluent humic acid concentration changes as coagulant dosage increases at a certain humic acid influent concentration.  With more available information of NOM in local water supplies, AguaClara could better adjust the coagulant dosage to achieve lower effluent turbidities and save money on coagulant. 
+Even though the humic acid concentration doubled, the difference between optimal coagulant dosages was negligible. Therefore, the Team decided to change our research path. Instead of continuing to test optimal coagulant dosage for different humic acid concentrations, the Fall 2018 Team investigated how effluent humic acid concentration changes as coagulant dosage increases at a certain humic acid influent concentration.  With more available information of NOM in local water supplies, AguaClara could better adjust the coagulant dosage to achieve lower effluent turbidities and save money on coagulant.
 
 In terms of importance to the world in general, the coagulant concentration should not be too high because it is expensive and potentially harmful to the water quality. Too much coagulant will prevent flocculation which is counter-productive. Too little coagulant means the water still potentially has significant levels of humic acid, which will be problematic once chlorine is used to kill bacteria in the water. The humic acid and chlorine will react to form chloroform which is very harmful to humans (Kopfler,et. al.).
 
@@ -33,11 +33,11 @@ NOM negatively affects water quality in a number of ways. It causes discoloratio
 
 Regarding NOM removal efficiency, Soh et al.(2008) isolated dissolved NOM into four organic fractions based on their hydrophobic and hydrophilic properties (very hydrophobic acids, slightly hydrophobic acids, charged hydrophilics, and neutral hydrophilics). His experiment was designed to determine the impact of alum coagulation on removal of these fractions in conventional water treatment. He found that the alum removed mostly hydrophobic and higher molecular weight components of NOM. This result further verified that the NOM removal efficiency is correlated with the properties of NOM. His study also revealed that, even though alum coagulation removed a large proportion of NOM, a significant amount of the NOM resisted coagulation as well. This implies that NOM removal will not improve significantly at very high coagulant dosage.
 
-Because of the aforementioned factors, such as pH value, that influence NOM removal efficiency, the team needed to design well-controlled experiments to avoid any unexpected variables affecting experimental results. The studies that have been conducted in related fields provide inspiration for experiments the team conducted this semester, such as exploring the optimal coagulant dosage (the dosage which yields the lowest effluent turbidity) at a certain humic acid concentration. Previous research focused on the general effect of coagulation on humic acid and the subcomponents of NOM, but there have been no comprehensive studies conducted on optimal dosages. Therefore, the primary focus was on the optimal dosage of coagulant. 
+Because of the aforementioned factors, such as pH value, that influence NOM removal efficiency, the team needed to design well-controlled experiments to avoid any unexpected variables affecting experimental results. The studies that have been conducted in related fields provide inspiration for experiments the team conducted this semester, such as exploring the optimal coagulant dosage (the dosage which yields the lowest effluent turbidity) at a certain humic acid concentration. Previous research focused on the general effect of coagulation on humic acid and the subcomponents of NOM, but there have been no comprehensive studies conducted on optimal dosages. Therefore, the primary focus was on the optimal dosage of coagulant.
 
 Another research more relevant to current Humic Acid Team is from Yingda Du(2017), a former graduate student at Cornell. Du was the first to experiment with how effluent turbidity is affected by a combination of coagulant concentration and humic acid concentration. Her thesis paper investigates the effects NOM has on flocculation. Particle size distribution of flocs and effluent turbidity are the two major criteria for determining the effectiveness of flocculation. These two parameters are affected by the concentration of NOM in the system. In order to model this system, humic acid, which is one of the major components of NOM, serves as the surrogate for NOM. Du hypothesized that variation in humic acid concentration will affect floc size distribution and effluent turbidity. In her thesis, she modeled the effects of humic acid in high turbidity water on flocculation. For influent turbidity at 50 NTU with coagulant dosage ranging from 0.53 mg/L to 2.65 mg/L and humic acid concentration ranging from 0 to 15 mg/L, a series of experiments from Yingda indicate that the coagulant dosage is positively correlated with turbidity reduction and the presence of humic acid greatly increases the effluent turbidity. This was same for every experiment. An increase in coagulant dosage decreased the settled water turbidity.
 
-Another finding from Du's report is that the presence of humic acid increases the frequency of smaller particles after flocculation. As humic acid coats coagulant nano-particles, the attachment efficiency of collisions will decrease. Thus, humic acid can change the particle size distribution of the precipitated solids and larger particle formation is greatly inhibited by humic acid. This result indicates that existence of humic acid particles could diminish the performance of flocculation/sedimentation process with higher effluent turbidity. 
+Another finding from Du's report is that the presence of humic acid increases the frequency of smaller particles after flocculation. As humic acid coats coagulant nano-particles, the attachment efficiency of collisions will decrease. Thus, humic acid can change the particle size distribution of the precipitated solids and larger particle formation is greatly inhibited by humic acid. This result indicates that existence of humic acid particles could diminish the performance of flocculation/sedimentation process with higher effluent turbidity.
 
 
 ## Previous Work
@@ -54,7 +54,7 @@ Figure 1: The linear relationship derived between humic acid absorbance and humi
 
 The plot was created by python code and code can be found in the "Python Code" section.
 
-Clay mixtures were run through the turbidity meter and spectrophotmeter.  Results showed that the turbidity and absorbance of clay were related linearly. The relationship was obtained: $$ y=0.0199x+0.0554 $$, where y is the absorbance and x is the turbidity of clay.This relationship implies by measuring the effluent turbidity of a clay sample, the absorbance of clay can be calculated using the equation above. Fall 2018's work in using absorbance gives future teams data for future spectroscopy work. 
+Clay mixtures were run through the turbidity meter and spectrophotmeter.  Results showed that the turbidity and absorbance of clay were related linearly. The relationship was obtained: $$ y=0.0199x+0.0554 $$, where y is the absorbance and x is the turbidity of clay.This relationship implies by measuring the effluent turbidity of a clay sample, the absorbance of clay can be calculated using the equation above. Fall 2018's work in using absorbance gives future teams data for future spectroscopy work.
 
 Figure 2: The linear relationship derived between clay absorbance and clay turbidity can be used to extrapolate the absorbances of other clay turbidities.
 
@@ -64,11 +64,11 @@ The plot was created by python code and code can be found in the "Python Code" s
 
 ## Methods
 #### Experimental Methods
-The Spring 2019 HA Team assembled a recycled system (Figure 3) to eliminate any potential disturbances in running tap water. Because there were constant complications with the spectrophotometer in past semesters, the team decided to start with verifying absorbance results of HA at the same concentrations tested before. In the new system, samples at 5 mg/L, 10 mg/L and 15 mg/L were tested, recorded and compared with past results. 
+The Spring 2019 HA Team assembled a recycled system (Figure 3) to eliminate any potential disturbances in running tap water. Because there were constant complications with the spectrophotometer in past semesters, the team decided to start with verifying absorbance results of HA at the same concentrations tested before. In the new system, samples at 5 mg/L, 10 mg/L and 15 mg/L were tested, recorded and compared with past results.
 
-Additionally, in previous experiments, clay turbidity was controlled by ProCoda. In order to know the exact concentration of clay within the system, the second set of experiments focused on achieving 10 NTU, 100 NTU, 1000 NTU readings and measuring the amount of clay used, and verifying whether the relationship between clay concentration and absorbance held true for a recycled system. 
+Additionally, in previous experiments, clay turbidity was controlled by ProCoda. In order to know the exact concentration of clay within the system, the second set of experiments focused on achieving 10 NTU, 100 NTU, 1000 NTU readings and measuring the amount of clay used, and verifying whether the relationship between clay concentration and absorbance held true for a recycled system.
 
-The last set of experiments tested a mixture of clay at 10 NTU, 100 NTU, 1000 NTU, with HA at 5 mg/L. In the second set of experiments, the exact amount of clay associated with different concentrations was determined and can be directly used in this step. The readings on the turbidimeter and spectrophotometer was recorded. 
+The last set of experiments tested a mixture of clay at 10 NTU, 100 NTU, 1000 NTU, with HA at 5 mg/L. In the second set of experiments, the exact amount of clay associated with different concentrations was determined and can be directly used in this step. The readings on the turbidimeter and spectrophotometer was recorded.
 
 Figure 3: A schematic drawing of the experimental system set-up
 
@@ -85,7 +85,7 @@ Humic Acid only influent trials:
 * Empty the system of waters
 * Fill the 6 L bucket with 6 L of water
 * Turn on the water pump and let water flow at 100 RPM. Let system flow for a few minutes and make sure that the turbidity and absorbance readings are low.
-* Using 1.00 mL pipette, pipette 10 mL of the 3 g/L stock solution of Humic Acid to attain 5 mg/L (for 10 mg/L, pipette 20 mL, for 15 mg/L pipette 30 ML), use metal rod to mix well 
+* Using 1.00 mL pipette, pipette 10 mL of the 3 g/L stock solution of Humic Acid to attain 5 mg/L (for 10 mg/L, pipette 20 mL, for 15 mg/L pipette 30 ML), use metal rod to mix well
 * Record absorbances and turbidity readings after system reaches steady state for each concentration of Humic Acid
 
 Clay only influent trials:
@@ -99,14 +99,14 @@ Clay only influent trials:
 * Record absorbances and turbidity readings after system reaches steady state for clay trial
 
 
-Mixture influent trials: 
+Mixture influent trials:
 * Flush the system at high pump speed with distilled water
 * Empty the system of waters
 * Fill the 6 L bucket with 6 L of water
 * Turn on the water pump and let water flow at 100 RPM. Let system flow for a few minutes and make sure that the turbidity and absorbance readings are low.
 * Turn on mixer
 * Weigh out desired amount of clay in a weigh boat
-* Pipette desired amount of Humic Acid into 6 L bucket 
+* Pipette desired amount of Humic Acid into 6 L bucket
 * Add clay into 6 L bucket and mix well
 * Record absorbances and turbidity readings after system reaches steady state for clay trial
 
@@ -116,7 +116,7 @@ Stop the experiment by shutting down all the water pump, turbidimeter, spectroph
 
 
 ## Results and Analysis
-In the first set of experiments, different Humic Acid Concentrations were tested. Absorbance and Turbidity readings are recorded for later use. 
+In the first set of experiments, different Humic Acid Concentrations were tested. Absorbance and Turbidity readings are recorded for later use.
 
 | Humic Acid Concentration(mg/L) |           Absorbance           |
 | ------------------------------ | ------------------------------ |
@@ -124,7 +124,7 @@ In the first set of experiments, different Humic Acid Concentrations were tested
 | 10                             |0.4329                          |
 | 15                             |0.5909                          |
 
-In the second set of experiments, different clay turbidities were tested and the amount of clay used was recorded for future convenience. 
+In the second set of experiments, different clay turbidities were tested and the amount of clay used was recorded for future convenience.
 
 |   Desired Clay Turbidity(NTU)  |       Mass of Clay(g)          |    Actual Turbidity (NTU)    |                
 | ------------------------------ | ------------------------------ | ---------------------------- |
@@ -132,9 +132,9 @@ In the second set of experiments, different clay turbidities were tested and the
 | 100                            |0.8                             |120                           |
 | 1000                           |6                               |1000.8                        |
 
-Mixture
+#### Mixture
 
-<img src="https://github.com/AguaClara/humic_acid/blob/master/5%20mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400> 
+<img src="https://github.com/AguaClara/humic_acid/blob/master/5%20mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400>
 Figure 4: The observed and projected absorbance of 5 mg/L of Humic Acid with Clay.  The projected absorbance is the absorbance of the mixture in the case where the total absorbance is the pure sum of 5 mg/L humic acid and the corresponding clay absorbance at a given NTU.  The absorbance of the mixture at low turbidity is close to the projected value, but higher concentrations of clay exhibit no specific relationship.
 
 |  Projected Additive Absorbance |   Actual Additive Absorbance  |    Percentage Difference    |                
@@ -143,9 +143,10 @@ Figure 4: The observed and projected absorbance of 5 mg/L of Humic Acid with Cla
 |0.4596                          |0.5541                         |20.56%                       |
 |1.1356                          |2                              |76.12%                       |
 
-It can be seen that at low turbidities, the projected absorbances - the absorbance of pure humic acid added with the absorbance of clay - are approximately equal to the observed absorbance of the mixture influent. However, as NTU increased, the ideal projected absorbance diverged quickly with the observed absorbances. This suggests that there are humic-acid clay interactions present that do not allow for mixture absorbances to be strictly additive. 
 
-<img src="https://github.com/AguaClara/humic_acid/blob/master/10mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400> 
+It can be seen that at low turbidities, the projected absorbances - the absorbance of pure humic acid added with the absorbance of clay - are approximately equal to the observed absorbance of the mixture influent. However, as NTU increased, the ideal projected absorbance diverged quickly with the observed absorbances. This suggests that there are humic-acid clay interactions present that do not allow for mixture absorbances to be strictly additive.
+
+<img src="https://github.com/AguaClara/humic_acid/blob/master/10mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400>
 Figure 5: The observed and projected absorbance of 10 mg/L of Humic Acid with Clay.  The projected absorbance is the absorbance of the mixture in the case where the total absorbance is the pure sum of 10 mg/L humic acid and the corresponding clay absorbance at a given NTU.  The absorbance of the mixture at low NTU is close to the projected value, but higher concentrations of clay exhibit no specific relationship.
 
 |  Projected Additive Absorbance |   Actual Additive Absorbance  |    Percentage Difference    |                
@@ -157,18 +158,18 @@ Figure 5: The observed and projected absorbance of 10 mg/L of Humic Acid with Cl
 
 Similar to the results of the 5 mg/L humic acid mixture stream, the projected absorbances are approximately equal to the observed absorbance of the mixture influent.  Again, however, the projected absorbance quickly became a poor approximation as NTU increased.  This further suggests that there are interactions between humic acid and clay that affect absorbance readings.
 
-<img src="https://github.com/AguaClara/humic_acid/blob/master/15%20mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400> 
+<img src="https://github.com/AguaClara/humic_acid/blob/master/15%20mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400>
 
-Figure 6: The observed and projected absorbance of 15 mg/L of Humic Acid with Clay.  The projected absorbance is the absorbance of the mixture in the case where the total absorbance is the pure sum of 15 mg/L humic acid and the corresponding clay absorbance at a given NTU.  The absorbance of the mixture is not close to the projected value at any NTU of clay. 
+Figure 6: The observed and projected absorbance of 15 mg/L of Humic Acid with Clay.  The projected absorbance is the absorbance of the mixture in the case where the total absorbance is the pure sum of 15 mg/L humic acid and the corresponding clay absorbance at a given NTU.  The absorbance of the mixture is not close to the projected value at any NTU of clay.
 
 |  Projected Additive Absorbance |   Actual Additive Absorbance  |    Percentage Difference    |                
 | ------------------------------ | ------------------------------| ----------------------------|
 |0.6409                          |0.537                          |16%                          |
 |0.8179                          |0.818                          |0.1%                         |
-|1.4939                          |2                              |33.88%                       |
+|1.4939                          |2                              |0.3388%                      |
 
 
-The 15 mg/L humic acid mixture streams exhibited a different behaviour in comparison to the 5 and 10 mg/L humic acid mixture streams.  Even at low NTU, the observed absorbances for the 15 mg/L humic acid mixture streams were not equal to the projected absorbance.  For 15 mg/L humic acid mixtures, the absorbances did not prove to be additive for any NTU that was tested.  This result suggests that as humic acid concentration increases in a given mixture, the observed absorbance is not a purely additive result. 
+The 15 mg/L humic acid mixture streams exhibited a different behaviour in comparison to the 5 and 10 mg/L humic acid mixture streams.  At the lowest turbidity, the observed absorbances for the 15 mg/L humic acid mixture streams were not equal to the projected absorbance. However,the mixture with 100 NTU clay and Humic Acid had only 0.1% of a difference in absorbance in comparison with the projected absorbance. For 15 mg/L humic acid mixtures, the absorbances did not prove to be additive for any NTU that was tested.  This result suggests that as humic acid concentration increases in a given mixture, the observed absorbance is not a purely additive result.
 
 
 ## Complications
@@ -192,7 +193,7 @@ Soh, YC, Roddick, F & Van Leeuwen, J. (2008). The Impact of Alum Coagulation on 
 
 Kopfler, F., H. Ringhand, W. Coleman, AND J. Meier. REACTIONS OF CHLORINE IN DRINKING WATER, WITH HUMIC ACIDS AND 'IN VIVO'. U.S. Environmental Protection Agency, Washington, D.C., EPA/600/D-84/196 (NTIS PB85160737).
 
-Du, Y. (2017). Observations and a Geometric Explanation of the Effects of Humic Acid on Flocculation. 
+Du, Y. (2017). Observations and a Geometric Explanation of the Effects of Humic Acid on Flocculation.
 
 ## Python Code
 
