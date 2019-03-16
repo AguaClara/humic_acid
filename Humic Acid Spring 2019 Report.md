@@ -167,9 +167,8 @@ The absorbance of humic acid and clay mixture streams are not purely additive ac
 It is known that humic acid can stick to clay when the two are mixed together.  In theory, the absorbance would become lower than the projected absorbance after the humic acid sticks to the clay, as more light would be able to pass through the mixture.  From the data collected, however, the observed absorbance became higher than the projected absorbance, contradicting previous thought.  More research is needed to understand why this result occured.
 
 ## Future Work
-The team will continue to conduct the experiment with a mixture of HA and clay at 500 NTU and 800 NTU. Currently, the results are not sufficient to show any meaningful relationships between Humic Acid and Clay because influent mixture streams with 1000 NTU have maxed out the readings on the equipment used in the experiment (absorbance maxed out at 2, turbidity meter maxed out at 1100).
-If the team finds any interactions between clay and humic acid, the next step will be to centrifuge the mixed samples to further understand the effects of humic-acid-clay sticking interactions. 
-
+The team will continue to conduct the experiment with a mixture of HA and clay at 500 NTU and 800 NTU. The current results are not sufficient to show any meaningful relationships between Humic Acid and Clay. Influent mixture streams with 1000 NTU have maxed out the readings on the equipment used in the experiment (absorbance maxed out at 2, turbidity meter maxed out at 1100).  Additionally, absorbance values at 500 NTU and 800 NTU of clay will give further insight on the behaviour of the mixture absorbances, as most data gathered has been at lower NTU (10 and 100 NTU).
+The team also plans to use centrifugation to investigate the interactions between humic acid and clay, as well as to understand the impacts theseinteractions have.
 
 ## Bibliography
 Logan, B. E., Hermanowicz, S. W., & Parker,A. S. (1987). A Fundamental Model for Trickling Filter Process Design. Journal (Water Pollution Control Federation), 59(12), 1029–1042.
