@@ -171,9 +171,10 @@ Soh, YC, Roddick, F & Van Leeuwen, J. (2008). The Impact of Alum Coagulation on 
 Kopfler, F., H. Ringhand, W. Coleman, AND J. Meier. REACTIONS OF CHLORINE IN DRINKING WATER, WITH HUMIC ACIDS AND 'IN VIVO'. U.S. Environmental Protection Agency, Washington, D.C., EPA/600/D-84/196 (NTIS PB85160737).
 
 Du, Y. (2017). Observations and a Geometric Explanation of the Effects of Humic Acid on Flocculation. 
-#
 
-# To convert the d* code for plotting preliminary test #2
+## Python Code
+
+*To convert the code for plotting preliminary test #2
 ```python
 from aide_design.play import*
 xArray = [5, 10, 15]
