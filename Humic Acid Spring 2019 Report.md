@@ -151,6 +151,8 @@ Figure 6: 15 mg/L with Clay
 
 <img src="https://github.com/AguaClara/humic_acid/blob/master/15%20mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400> 
 
+## Complications
+There were complications in the experiment that could have resulted in discrepancies. Although during the verification stages of the spectrophotometer, no problems were encountered, in proceeding experiments, readings were 0.1 to 0.2 higher than usual. There were also minor amounts of clay left in tubes after flushing out the systems at high pump speed. Evaporation of Water is negligible. 
 
 ## Conclusions
 ## Future Work
