@@ -166,7 +166,7 @@ Figure 6: The observed and projected absorbance of 15 mg/L of Humic Acid with Cl
 | ------------------------------ | ------------------------------| ----------------------------|
 |0.6409                          |0.537                          |16%                          |
 |0.8179                          |0.818                          |0.1%                         |
-|1.4939                          |2                              |0.3388%                      |
+|1.4939                          |2                              |33.88%                       |
 
 
 The 15 mg/L humic acid mixture streams exhibited a different behaviour in comparison to the 5 and 10 mg/L humic acid mixture streams.  At the lowest turbidity, the observed absorbances for the 15 mg/L humic acid mixture streams were not equal to the projected absorbance. However,the mixture with 100 NTU clay and Humic Acid had only 0.1% of a difference in absorbance in comparison with the projected absorbance. For 15 mg/L humic acid mixtures, only partial results confirmed the additive assumptions of absorbance. More experiments need to be conducted in order to reach a conclusion.
