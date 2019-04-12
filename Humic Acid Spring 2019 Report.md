@@ -213,6 +213,8 @@ Figure 7: The ratio of measured absorbance over predicted absorbance vs. clay tu
 Figure 8: The ratio of measured absorbance over predicted absorbance vs. humic acid concentration.  A negative trend is observed, but more data is needed to see how the accruacy of the predicted absrobances correlates with varying humic acid concentrations.
 
 
+
+
 All three mixture tests have shown results that prove absorbance can be additive when humic acid and clay are mixed together. However, there are more results that overturn this hypothesis. The team used clay at 1000 NTU for the mixture trials in order to consider real-life situations. However, we did not take into account that the meters might not be able to measure accurately at a high turbidity, therefore this might have resulted in a maxed out reading on the spectrophotometer.
 
 ## Complications
