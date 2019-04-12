@@ -10,7 +10,7 @@
 **[Overall: Hey friends! Some general comments for the whole report... please go back an proofread thoroughly for consistency and grammar issues. Also, sometimes you guys capitalize words like humic acid, clay, turbidity, etc. which is not necessary. Remember to label all of your tables and figures correctly and refer to them in the text. If you don't refer to them in the text, it is not clear which sections of your report go with which figure.]**
 
 ## Abstract
-Samples of HA at 5 mg/L, 10 mg/L and 15 mg/L and concentrations of clay at 10 NTU, 100 NTU and 100 NTU are tested separately to find the respective absorbances. The individual absorbances recorded are used to compare with the mixture of different concentrations of clay and HA to find the additive aspects of the mixture.
+This semester, samples of HA at 5 mg/L, 10 mg/L and 15 mg/L and concentrations of clay at 10 NTU, 100 NTU and 100 NTU are tested separately to find the respective absorbances. The individual absorbances recorded are used to compare with the mixture of different concentrations of clay and HA to find the additive aspects of the mixture.  The results of these tests will investigate how absorbance and spectrophotometry can be used to quantify the concentrations of humic acid and clay in water mixtures.  This capabilitiy can impact the ways AguaClara plants measure and test the efficiency of current and improved processes.
 
 **[Talk a little bit about why your team is doing these tests because otherwise the abstract sounds jarring.]**
 
