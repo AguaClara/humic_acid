@@ -55,18 +55,19 @@ The Spring 2018 Humic Acid subteam verified the previous semester's result and t
 
 The Fall 2018 Humic Acid subteam introduced the spectrophotomer into the experimental apparatus.  This was done in order to investigate the applicability of UV-spectroscopy in quantifying the concentration of humic acid in water streams.  The team ran several tests with humic acid (HA for short) solutions of 5 mg/L, 10 mg/L, and 15 mg/L through the 1600 UV spectrophotometer in the design lab at 254 nm. Results from this first preliminary test showed that there is a linear relationship between absorbance and humic acid concentration (equation of the line found to be $$ y=0.0453x+0.0351 $$ through linear regression; y is absorbance, x is concentration of HA).This result proved that HA solution obeyed Beer's Law, and spectrsocopy could be used to determine humic acid concentration. Humic acid solutions were then run through the AccuView spectrophotomer and an absorbance curve was plotted. The final preliminary experiment conducted was done with clay.  
 
-Figure 1: The linear relationship derived between humic acid absorbance and humic acid concentration can be used to extrapolate the absorbances of other humic acid samples.
 
 <img src="https://github.com/AguaClara/humic_acid/blob/master/test2.png?raw=true" height=250 width=400>
+Figure 1: The linear relationship derived between humic acid absorbance and humic acid concentration can be used to extrapolate the absorbances of other humic acid samples.
 
-The plot was created by python code and code can be found in the "Python Code" section.
+Figure 1 was created by python code and code can be found in the "Python Code" section.
 
 Clay mixtures were run through the turbidity meter and spectrophotmeter.  Results showed that the turbidity and absorbance of clay were related linearly. The relationship was obtained: $$ y=0.0199x+0.0554 $$, where y is the absorbance and x is the turbidity of clay.This relationship implies by measuring the effluent turbidity of a clay sample, the absorbance of clay can be calculated using the equation above. Fall 2018's work in using absorbance gives future teams data for future spectroscopy work.
 
-Figure 2: The linear relationship derived between clay absorbance and clay turbidity can be used to extrapolate the absorbances of other clay turbidities.
 
 <img src="https://github.com/AguaClara/humic_acid/blob/master/test3.png?raw=true" height=250 width=400>
-The plot was created by python code and code can be found in the "Python Code" section.
+Figure 2: The linear relationship derived between clay absorbance and clay turbidity can be used to extrapolate the absorbances of other clay turbidities.
+
+Figure 2 was created by python code and code can be found in the "Python Code" section.
 
 **[Try to refer to your figures in the text so that your report can be easily skimmed.]**
 
@@ -76,13 +77,13 @@ The Spring 2019 HA Team assembled a recycled system (Figure 3) to eliminate any 
 
 Additionally, in previous experiments, clay turbidity was controlled by ProCoda. In order to know the exact concentration of clay within the system, the second set of experiments focused on achieving 10 NTU, 100 NTU, 1000 NTU readings and measuring the amount of clay used, and verifying whether the relationship between clay concentration and absorbance held true for a recycled system.
 
-The last set of experiments tested a mixture of clay at 10 NTU, 100 NTU, 1000 NTU, with HA at 5 mg/L. In the second set of experiments, the exact amount of clay associated with different concentrations was determined and can be directly used in this step. The readings on the turbidimeter and spectrophotometer was **[were]** recorded.
+The last set of experiments tested a mixture of clay at 10 NTU, 100 NTU, 1000 NTU, with HA at 5 mg/L. In the second set of experiments, the exact amount of clay associated with different concentrations was determined and can be directly used in this step. The readings on the turbidimeter and spectrophotometer were **[were]** recorded.
 
-Figure 3: A schematic drawing of the experimental system set-up **[Figure captions go below the figure. (You were right to put your table caption above the table though!)]**
+ **[Figure captions go below the figure. (You were right to put your table caption above the table though!)]**
 
 
 <img src="https://github.com/AguaClara/humic_acid/blob/master/Schematic%20Drawing%20SP19.png?raw=true" height=250 width=400>
-
+Figure 3: A schematic drawing of the experimental system set-up
 
 
 #### Procedure
@@ -126,6 +127,7 @@ Stop the experiment by shutting down all the water pump, turbidimeter, spectroph
 ## Results and Analysis
 In the first set of experiments, different humic acid concentrations were tested. Absorbance and turbidity readings are recorded for later use. **[No need to capitalize concentrations, absorbance, and turbidity.]**
 **[Label your tables]**
+Table 2: Absorbances of varying humic acid concentrations
 | Humic Acid Concentration(mg/L) |           Absorbance           |
 | ------------------------------ | ------------------------------ |
 | 5                              |0.2326                          |
@@ -134,6 +136,7 @@ In the first set of experiments, different humic acid concentrations were tested
 
 In the second set of experiments, different clay turbidities were tested and the amount of clay used was recorded for future convenience.
 
+Table 3: Mass of clay added into the system and corresponding turbidities 
 |   Desired Clay Turbidity(NTU)  |       Mass of Clay(g)          |    Actual Turbidity (NTU)    |                
 | ------------------------------ | ------------------------------ | ---------------------------- |
 | 10                             |0.16                            |12.005                        |
@@ -146,6 +149,7 @@ In the second set of experiments, different clay turbidities were tested and the
 
 Figure 4: The observed and projected absorbance of 5 mg/L of humic acid with clay.  The projected absorbance is the absorbance of the mixture in the case where the total absorbance is the pure sum of 5 mg/L humic acid and the corresponding clay absorbance at a given NTU.  The absorbance of the mixture at low turbidity is close to the projected value, but higher concentrations of clay exhibit no specific relationship.
 
+Table 4: Projected absorbances and observed absorbances for 5 mg/L of humic acid streams
 |  Projected Additive Absorbance |   Actual Additive Absorbance  |    Percentage Difference    |                
 | ------------------------------ | ------------------------------| ----------------------------|
 |0.2826                          |0.3138                         |11.04%                       |
@@ -159,6 +163,7 @@ From the table above, it can be seen **[Where? Refer to your figures.]** that at
 
 Figure 5: The observed and projected absorbance of 10 mg/L of humic acid with clay.  The projected absorbance is the absorbance of the mixture in the case where the total absorbance is the pure sum of 10 mg/L humic acid and the corresponding clay absorbance at a given NTU.  The absorbance of the mixture at low NTU is close to the projected value, but higher concentrations of clay exhibit no specific relationship.
 
+Table 5: Projected absorbances and observed absorbances for 10 mg/L of humic acid streams
 |  Projected Additive Absorbance |   Actual Additive Absorbance  |    Percentage Difference    |                
 | ------------------------------ | ------------------------------| ----------------------------|
 |0.4829                          |0.4898                         |1.4%                         |
@@ -172,6 +177,7 @@ Similar to the results of the 5 mg/L humic acid mixture stream, the projected ab
 
 Figure 6: The observed and projected absorbance of 15 mg/L of humic acid with clay.  The projected absorbance is the absorbance of the mixture in the case where the total absorbance is the pure sum of 15 mg/L humic acid and the corresponding clay absorbance at a given NTU.  The absorbance of the mixture is not close to the projected value at any NTU of clay.
 
+Table 6: Projected absorbances and observed absorbances for 15 mg/L of humic acid streams
 |  Projected Additive Absorbance |   Actual Additive Absorbance  |    Percentage Difference    |                
 | ------------------------------ | ------------------------------| ----------------------------|
 |0.6409                          |0.537                          |16%                          |
