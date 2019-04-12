@@ -129,6 +129,8 @@ Stop the experiment by shutting down all the water pump, turbidimeter, spectroph
 ## Results and Analysis
 In the first set of experiments, different humic acid concentrations were tested. Absorbance and turbidity readings are recorded for later use. **[No need to capitalize concentrations, absorbance, and turbidity.]**
 **[Label your tables]**
+
+
 Table 2: Absorbances of varying humic acid concentrations
 
 
@@ -165,7 +167,7 @@ Table 4: Projected absorbances and observed absorbances for 5 mg/L of humic acid
 |1.1356                          |2                              |76.12%                       |
 
 
-From the table above, it can be seen **[Where? Refer to your figures.]** that at low turbidities, the projected absorbances - the absorbance of pure humic acid added with the absorbance of clay - are approximately equal to the observed absorbance of the mixture influent. However, as NTU increased, the ideal projected absorbance diverged quickly with the observed absorbances. This suggests that there are humic-acid clay interactions present that do not allow for mixture absorbances to be strictly additive.
+As seen in table 4's data, **[Where? Refer to your figures.]** that at low turbidities, the projected absorbances - the absorbance of pure humic acid added with the absorbance of clay - are approximately equal to the observed absorbance of the mixture influent. However, as NTU increased, the ideal projected absorbance diverged quickly with the observed absorbances. This suggests that there are humic-acid clay interactions present that do not allow for mixture absorbances to be strictly additive.
 
 <img src="https://github.com/AguaClara/humic_acid/blob/master/10mg%20per%20L%20HA%20Clay%20Mix.png?raw=true" height=250 width=400>
 
