@@ -201,6 +201,18 @@ Table 6: Projected absorbances and observed absorbances for 15 mg/L of humic aci
 
 The 15 mg/L humic acid mixture streams exhibited a different behaviour in comparison to the 5 and 10 mg/L humic acid mixture streams.  At the lowest turbidity, the observed absorbances for the 15 mg/L humic acid mixture streams were not equal to the projected absorbance. However, the mixture with 100 NTU clay and humic acid had only 0.1% of a difference in absorbance in comparison with the projected absorbance. For 15 mg/L humic acid mixtures, only partial results confirmed the additive assumptions of absorbance. More experiments need to be conducted in order to reach a conclusion.
 
+The results of these three tests were compiled into two separate graphs (see Figures 7 and 8 below).  Figure 7 displays the measured/predicted absorbance vs. the varying clay turbidity tested.  Figure 8 displays the measured/predicted absorbance vs. the humic acid concentrations tested.  As seen in Figure 7, the measured/predicted absorbance ratio has no real correlation with turbidity.  In Figure 8, however, the accuracy seems to decrease with increasing humic acid concentration, but more data is needed to conclude the observation.
+
+Note that the data of trials with turbidities over 1000 NTU were not included because of the inaccurate readings (absorbance was maxed out at 2, so the absorbance of the stream was too high for the spectrophotometer to read).
+
+<img src="https://github.com/AguaClara/humic_acid/blob/master/55752274-901acf80-5a15-11e9-9e6f-aa5d8dd2587c.png?raw=true" height=250 width=400>
+Figure 7: The ratio of measured absorbance over predicted absorbance vs. clay turbidity.  The slope of zero suggests that the accuracy of the predicted absorbances stays the same regardless of the clay turbidity.
+
+
+<img src="https://github.com/AguaClara/humic_acid/blob/master/55752286-98730a80-5a15-11e9-930f-d120d9a00451.png?raw=true" height=250 width=400>
+Figure 8: The ratio of measured absorbance over predicted absorbance vs. humic acid concentration.  A negative trend is observed, but more data is needed to see how the accruacy of the predicted absrobances correlates with varying humic acid concentrations.
+
+
 All three mixture tests have shown results that prove absorbance can be additive when humic acid and clay are mixed together. However, there are more results that overturn this hypothesis. The team used clay at 1000 NTU for the mixture trials in order to consider real-life situations. However, we did not take into account that the meters might not be able to measure accurately at a high turbidity, therefore this might have resulted in a maxed out reading on the spectrophotometer.
 
 ## Complications
