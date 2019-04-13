@@ -244,7 +244,7 @@ Du, Y. (2017). Observations and a Geometric Explanation of the Effects of Humic 
 
 *To convert the code for plotting preliminary test #2
 ```python
-from aide_design.play import*
+from aguaclara.core import*
 xArray = [5, 10, 15]
 yArray = [0.2668, 0.478, 0.72]
 plt.plot(xArray,yArray)
@@ -254,32 +254,11 @@ plt.title('Absorbance vs. Humic Acid Concentration')
 plt.savefig('/Users/vanessa/github/humic_acid/test2.png')
 plt.show()
 ```
-* code for plotting preliminary test #3
-```python
-from aide_design.play import*
-xArray = [0.222, 10, 20, 30]
-yArray = [0.0557, 0.0743, 0.0964, 0.1148]
-plt.plot(xArray,yArray)
-plt.xlabel('Clay Turbidity (BTU)')
-plt.ylabel('Absorbance (AU)')
-plt.title('Absorbance vs. Clay Turbidity')
-plt.savefig('/Users/vanessa/github/humic_acid/test3.png')
-plt.show()
-```
-```python
-from aide_design.play import*
-xArray = [, 10, 15]
-yArray = [0.2668, 0.478, 0.72]
-plt.plot(xArray,yArray)
-plt.xlabel('Humic Acid Concentration (mg/L)')
-plt.ylabel('Absorbance (AU)')
-plt.title('Absorbance vs. Humic Acid Concentration')
-plt.savefig('/Users/vanessa/github/humic_acid/test2.png')
-plt.show()
-```
+*All other python graphs are done as preliminary test #2, table of results are in Appendix below*
+
 * code for plotting 5 mg/L HA with clay mixture results
 ```python
-from aide_design.play import*
+from aguaclara.core import*
 xArray = [57.922,182.7,1100]
 yArray = [0.3138,0.5541,2]
 plt.plot(xArray,yArray)
@@ -292,36 +271,31 @@ plt.title('5 mg/L Humic Acid with Clay: Absorbance vs. NTU')
 plt.savefig('/Users/mlee1721/github/humic_acid/5 mg per L HA Clay Mix.png')
 plt.show()
 ```
-* code for plotting 10 mg/L HA with clay mixture results
+*All other python graphs for mixture experiments are done as 5 mg/L with clay mixture, tables can be found in the result section*
+
+* code for plotting measured absorbance vs. predicted absorbance 
 ```python
-from aide_design.play import*
-xArray = [31.98,178.54,1100]
-yArray = [0.4898,0.8031,2]
+from aguaclara.core import*
+xArray = [57.922,182.7,31.98,178.54,25.781,145.3]
+yArray = [0.8669,1.1917,0.5407,0.6618,0.6936,0.7924]
 plt.plot(xArray,yArray)
-xArray = [12.005,120,1000.8]
-yArray = [0.4829,0.6599,1.3359]
 plt.plot(xArray,yArray)
-plt.xlabel('Clay NTU (NTU)')
-plt.ylabel('Absorbance')
-plt.title('10 mg/L Humic Acid with Clay: Absorbance vs. NTU')
-plt.savefig('/Users/mlee1721/github/humic_acid/10 mg per L HA Clay Mix.png')
+plt.xlabel('Turbidity (NTU)')
+plt.ylabel('Measured/Predicted Absorbance')
+plt.title('Measured/Predicted Absorbance vs. Measured Turbidity')
+plt.savefig('/Users/mlee1721/github/humic_acid/Measured/Observed Abs vs Turbidity.png')
 plt.show()
 ```
-* code for plotting 15 mg/L HA with clay mixture results
-```python
-from aide_design.play import*
-xArray = [25.781,145.3,775.48]
-yArray = [0.537,0.818,2]
-plt.plot(xArray,yArray)
-xArray = [12.005,120,1000.8]
-yArray = [0.6409,0.8179,1.4939]
-plt.plot(xArray,yArray)
-plt.xlabel('Clay NTU (NTU)')
-plt.ylabel('Absorbance')
-plt.title('15 mg/L Humic Acid with Clay: Absorbance vs. NTU')
-plt.savefig('/Users/mlee1721/github/humic_acid/15 mg per L HA Clay Mix.png')
-plt.show()
-```
+
+
+## Appendix 
+* Table for preliminary test #3
+| Clay Turbidity (NTU)           |           Absorbance           |
+| ------------------------------ | ------------------------------ |
+| 0.222                          |0.0557                          |
+| 10                             |0.0743                          |
+| 20                             |0.0964                          |
+| 30                             |0.01148                         |
 
 #
 ```python
