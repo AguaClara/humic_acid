@@ -290,6 +290,7 @@ plt.show()
 
 ## Appendix 
 * Table for preliminary test #3
+
 |   Clay Turbidity (NTU)        |           Absorbance           |
 | ------------------------------| ------------------------------ |
 |0.222                          |0.0557                          |
@@ -297,7 +298,7 @@ plt.show()
 |20                             |0.0964                          |
 |30                             |0.01148                         |
 
-#
+
 ```python
 # To convert the document from markdown to pdf
 pandoc Name_of_this_file.md -o TeamName_Research_Report.pdf
