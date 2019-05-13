@@ -214,6 +214,11 @@ Figure 7: The ratio of measured absorbance over predicted absorbance vs. clay tu
 Figure 8: The ratio of measured absorbance over predicted absorbance vs. humic acid concentration.  A negative trend is observed, but more data is needed to see how the accruacy of the predicted absrobances correlates with varying humic acid concentrations.
 
 
+
+
+
+
+
 In order to achieve a more defined relationship between absorbance and turbidity, the turbidity of clay was lowered to 500 NTU from 1000 NTU and tested with the same concentrations of humic acid. The results are shown in Table 7 in the appendix section of the paper.
 
 From all the data acquired, a relationship between measured absorbance (y) and measured turbidity (x) was obtained by plotting the data on a plot and performing a linear regression.  The plot is shown in Figure 9 below.  The relationship obtained was $y = 0.0014x + 0.4358 $ (Equation 1), where y is the measured absorbance and x is the measured turbidity.
@@ -329,6 +334,9 @@ plt.show()
 |30                             |0.01148                         |
 
 * Table 7: Absorbance readings for 500 NTU Clay
+
+
+
 |           [HA] (mg/L)         |           Absorbance           |
 | ------------------------------| ------------------------------ |
 |5                              |1.1911                          |
