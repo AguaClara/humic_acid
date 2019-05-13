@@ -1,7 +1,7 @@
 
 # Humic Acid, Kaolin, Floc/Sed Model, Spring 2019
 #### Matthew Lee, Walter Guardado, Carolyn Wang
-#### March 15, 2019
+#### May 13, 2019
 
 **[Sidney: Hey team! I'm going to making comments in these bolded brackets.]**
 
