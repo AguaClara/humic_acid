@@ -218,12 +218,16 @@ In order to achieve a more defined relationship between absorbance and turbidity
 
 From all the data acquired, a relationship between measured absorbance (y) and measured turbidity (x) was obtained by plotting the data on a plot and performing a linear regression.  The plot is shown in Figure 9 below.  The relationship obtained was $y = 0.0014x + 0.4358 $ (Equation 1), where y is the measured absorbance and x is the measured turbidity.
 
-FIGURE 9 HERE
+<img src="https://github.com/AguaClara/humic_acid/blob/master/SP%2019%20Measured%20Absorbance%20vs%20Measured%20Turbidity.png?raw=true" height=250 width=400>
+
+
 Figure 9: A plot of measured absorbance vs. measured turbidity.  There is a strong linear relationship between the two variables, suggesting that turbidity can be used to calculate measured absorbance.
 
 In addition, a plot of measured vs. predicted absorbance was created using the data acquired.  A linear regression was performed, and the relationship obtained was $y = 1.3564p - 0.1447$ (Equation 2), where "y" is the measured absorbance and "p" is the predicited absorbance. Note that the predicted absorbance "p" is defined as the sum of the absorbance of humic acid and the absorbance of clay present in the mixture.  The plot is shown below in Figure 10.
 
-FIGURE 10 HERE
+<img src="https://github.com/AguaClara/humic_acid/blob/master/SP%2019%20Fig10%20Measured%20Absorbance%20vs%20Predicted%20Absorbance.png?raw=true" height=250 width=400>
+
+
 Figure 10: A plot of measured absorbance vs. predicted absorbance.  There is a strong linear relationship between the two variables.  
 
 As seen in Figure 10 above, the slope of the linear regression is 1.3564, which is greater than 1.  This confirms the previous work the team has conducted; the predicted absorbance is not a very accurate representation of the measured absorbance.  It was concluded that the turbidity readings may offer a "correction" factor and may better predict the measured absorbance.
