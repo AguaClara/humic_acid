@@ -324,6 +324,11 @@ plt.show()
 |20                             |0.0964                          |
 |30                             |0.01148                         |
 
+* Table 7: Absorbance readings for 500 NTU Clay
+|           [HA] (mg/L)         |           Absorbance           |
+| ------------------------------| ------------------------------ |
+|5                              |1.1911                          |
+|10                             |1.4857                          |
 
 ```python
 # To convert the document from markdown to pdf
