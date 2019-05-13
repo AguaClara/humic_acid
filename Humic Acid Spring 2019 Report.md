@@ -214,12 +214,37 @@ Figure 7: The ratio of measured absorbance over predicted absorbance vs. clay tu
 Figure 8: The ratio of measured absorbance over predicted absorbance vs. humic acid concentration.  A negative trend is observed, but more data is needed to see how the accruacy of the predicted absrobances correlates with varying humic acid concentrations.
 
 
+In order to achieve a more defined relationship between absorbance and turbidity, the turbidity of clay was lowered to 500 NTU from 1000 NTU and tested with the same concentrations of humic acid. The results are shown in Table 7 in the appendix section of the paper.
 
+From all the data acquired, a relationship between measured absorbance (y) and measured turbidity (x) was obtained by plotting the data on a plot and performing a linear regression.  The plot is shown in Figure 9 below.  The relationship obtained was $y = 0.0014x + 0.4358 $ (Equation 1), where y is the measured absorbance and x is the measured turbidity.
 
-All three mixture tests have shown results that prove absorbance can be additive when humic acid and clay are mixed together. However, there are more results that overturn this hypothesis. The team used clay at 1000 NTU for the mixture trials in order to consider real-life situations. However, we did not take into account that the meters might not be able to measure accurately at a high turbidity, therefore this might have resulted in a maxed out reading on the spectrophotometer.
+FIGURE 9 HERE
+Figure 9: A plot of measured absorbance vs. measured turbidity.  There is a strong linear relationship between the two variables, suggesting that turbidity can be used to calculate measured absorbance.
+
+In addition, a plot of measured vs. predicted absorbance was created using the data acquired.  A linear regression was performed, and the relationship obtained was $y = 1.3564p - 0.1447$ (Equation 2), where "y" is the measured absorbance and "p" is the predicited absorbance. Note that the predicted absorbance "p" is defined as the sum of the absorbance of humic acid and the absorbance of clay present in the mixture.  The plot is shown below in Figure 10.
+
+FIGURE 10 HERE
+Figure 10: A plot of measured absorbance vs. predicted absorbance.  There is a strong linear relationship between the two variables.  
+
+As seen in Figure 10 above, the slope of the linear regression is 1.3564, which is greater than 1.  This confirms the previous work the team has conducted; the predicted absorbance is not a very accurate representation of the measured absorbance.  It was concluded that the turbidity readings may offer a "correction" factor and may better predict the measured absorbance.
+
+By equating the two relationships obtained (Equation 1 and Equation 2) and solving for p:
+
+0.0014x + 0.4358 = 1.3564p - 0.1447
+
+p =  0.00103x + 0.4280 (Equation 3)
+
+Equation 3 relates the measured turbidity (x) and the projected absorbance p.  Since "p" is defined as the sum of the absorbance of humic acid and the absorbance of clay present in the mixture, equation 3 can be rewritten into:
+
+[HA] + [Clay] = 0.00103x + 0.4280 (Equation 4)
+
+From ths relationship, by measuring turbidity of a mixture, the [Clay] can be deduced from the NTU relationship obtained from earlier analysis. The [HA] can then be solved for.
+
+Equations 1 and 4 present a relationship between turbidity and measured absorbance, as well as turbidity and predicted absorbance, respectively.  These two equations can therefore be used in determining measured absorbance and the [HA] based of a single reading of turbidity.
 
 ## Complications
-There were complications in the experiment that could have resulted in discrepancies. Although no problems were encountered during the verification and calibration of the spectrophotometer, absorbance readings fluctuated between the days when experiments were carried out.  This complication persisted even though same streams were flowing through the system as in previous experimental trials (i.e. water, 5 mg/L humic acid).  Absorbances were sometimes 0.1 to 0.2 higher than usual. There were also minor amounts of clay left in tubes after flushing out the systems at high pump speed.  
+There were complications in the experiment that may have resulted in discrepancies. Although no problems were encountered during the verification and calibration of the spectrophotometer, absorbance readings fluctuated between the days when experiments were carried out. This complication persisted even though same streams were flowing through the system as in previous experimental trials (i.e. di water, 5 mg/L humic acid). Absorbances were sometimes 0.1 to 0.2 higher than usual. There were also minor amounts of clay left in tubes after flushing out the systems at high pump speed. Additionally, algae was found in the tubing after all experiments were run. The water bucket was covered with a lid to ensure water does not evaporate and affect absorbance readings, but because the mixer occupied a portion of the bucket, there was still a small surface area of the mixture in contact with the air. 
+
 
 ## Conclusions
 The absorbance of humic acid and clay mixture streams are not purely additive. At a low turbidity, mixtures containing all three 5 mg/L, 10 mg/L and 15 mg/L humic acid concentrations were approximately equal to the purely additive, projected absorbance.  As NTU increased, however, the observed absorbance diverged from the projected absorbance.
