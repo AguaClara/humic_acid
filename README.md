@@ -15,4 +15,4 @@ MID_TERM:https://docs.google.com/presentation/d/19sC5iIQ7kGqQ3ujJC4aqTxm_gEdrYmp
 FINAL: https://docs.google.com/presentation/d/1WWeLWujAvs1gAJBObuGA-5X7T3NqBUaTTGOlpCc7-zs/edit#slide=id.g497ff1acb2_1_0
 
 
-FINAL PRESENTATION LINK: https://www.youtube.com/watch?v=IO0-0WZ0PjI&index=8&list=PLhsGtpY8ipdZTn2HPI6C2uH44ADmc0Ra6
+FINAL PRESENTATION LINK: https://www.youtube.com/watch?v=snX5Bf6qQ2o&list=PLhsGtpY8ipdZL4lExJA8KC0zCkaxwfs8R&index=10&t=0s
