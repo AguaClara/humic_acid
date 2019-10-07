@@ -45,7 +45,7 @@ The Spring 2019 Humic Acid subteam developed a mathematical model that related t
 
 #### Sedimentation Tank Model
 
-##Bibliography 
+## Bibliography 
 Logan, B. E., Hermanowicz, S. W., & Parker,A. S. (1987). A Fundamental Model for Trickling Filter Process Design. Journal (Water Pollution Control Federation), 59(12), 1029–1042.
 
 Matilaninen, A, Vepsalainen, M & Sillanpaa, M. (2010). Natural Organic Matter Removal by Coagulation during Drinking Water Treatment. Adv Colloid Interface Sci.
