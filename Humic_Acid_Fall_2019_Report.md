@@ -1,6 +1,6 @@
 # Humic Acid, Kaolin, Floc/Sed Model, Fall 2018
 #### Lawrence Li, Maya Shanti, Carolyn Wang
-#### September 6th 2019
+#### October 6th 2019
 
 
 ## Abstract
