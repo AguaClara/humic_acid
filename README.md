@@ -3,16 +3,15 @@ Investigate the effluent HA concentrations as coag dosages increase for certain 
 
 ## Members
 1. Carolyn Wang: jw2376@cornell.edu, 607-262-2638
-2. Matthew Lee: mbl222@cornell.edu, 908-821-3496
-3. Walter Guardado: wg249@cornell.edu, 607-262-1145
+2. Lawrence Li: ll678@cornell.edu, 201-888-6661
+3. Maya Shanti: ms2665@cornell.edu, 916-747-4298
 
 ## Research Advisor
-* Jonathan Harris: jdh345@cornell.edu
+* Barbara Oramah: bio4@cornell.edu
 ## Presentations
-MID_TERM:https://docs.google.com/presentation/d/19sC5iIQ7kGqQ3ujJC4aqTxm_gEdrYmpPyAlIufDdlpc/edit#slide=id.g4d2a9edf58_3_7
+MID_TERM:
+
+FINAL:
 
 
-FINAL: https://docs.google.com/presentation/d/1WWeLWujAvs1gAJBObuGA-5X7T3NqBUaTTGOlpCc7-zs/edit#slide=id.g497ff1acb2_1_0
-
-
-FINAL PRESENTATION LINK: https://www.youtube.com/watch?v=snX5Bf6qQ2o&list=PLhsGtpY8ipdZL4lExJA8KC0zCkaxwfs8R&index=10&t=0s
+FINAL PRESENTATION LINK: 
