@@ -2,8 +2,7 @@
 ## Coagulant Equations:
 #### Mass Flow of Coagulant:
 $$W_{coagulant} = Q_{sys}*C_{sys}$$
-$$
-$$
+
 $$ W_{coagulant} = Mass\hspace{1mm}Flow\hspace{1mm} of\hspace{1mm} Coagulant $$
 $$ Q_{sys} = Flowrate \hspace{1mm} of \hspace{1mm} system$$
 $$ C_{sys} = Concentration\hspace{1mm} of\hspace{1mm} the\hspace{1mm} system$$
