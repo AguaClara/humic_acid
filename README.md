@@ -9,7 +9,7 @@ Investigate the effluent HA concentrations as coag dosages increase for certain 
 ## Research Advisor
 * Barbara Oramah: bio4@cornell.edu
 ## Presentations
-MID_TERM:
+MID_TERM:https://docs.google.com/presentation/d/19sC5iIQ7kGqQ3ujJC4aqTxm_gEdrYmpPyAlIufDdlpc/edit?usp=sharing
 
 FINAL:
 
