@@ -52,21 +52,37 @@ The team used the following code to calculate the speed of the humic acid, coagu
 
 ### Variables
 $ vt $: upflow velocity in the recirculator
+
 $ r $: radius of the recirculator tube
+
 $ a $: cross sectional area of the recirculator tube
+
 $ qt $: flow rate through the recirculator
+
 $ cHAs $: stock humic acid concentration (into humic acid pump)
+
 $ cHAd $: desired humic acid concentration in the recirculator
+
 $ qHAs $: stock humic acid flow rate (through humic acid pump)
+
 $ cCGs $: stock coagulant concentration (into coagulant pump)
+
 $ cCGd $: desired coagulant concentration in the recirculator
+
 $ qCGs $: stock coagulant flow rate (through coagulant pump)
+
 $ qW $: flow rate of water in the recirculator
+
 $ vHA $: volume per revolution of the humic acid pump (dependent on pump tubing)
+
 $ sHA $: revolution per second (pump speed) of the humic acid pump
+
 $ vCG $: volume per revolution of the coagulant pump (dependent on pump tubing)
+
 $ sCG $: revolution per second (pump speed) of the coagulant pump
+
 $ vW $: volume per revolution of the water pump (dependent on pump tubing)
+
 $ sW $: revolution per second (pump speed) of the water pump
 
 ```python
