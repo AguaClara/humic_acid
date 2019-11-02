@@ -45,6 +45,66 @@ The Spring 2019 Humic Acid subteam developed a mathematical model that related t
 
 #### Sedimentation Tank Model
 
+## Python Code
+
+### Variables
+$ vt $: upflow velocity in the recirculator
+$ r $: radius of the recirculator tube
+$ a $: cross sectional area of the recirculator tube
+$ qt $: flow rate through the recirculator
+$ cHAs $: stock humic acid concentration (into humic acid pump)
+$ cHAd $: desired humic acid concentration in the recirculator
+$ qHAs $: stock humic acid flow rate (through humic acid pump)
+$ cCGs $: stock coagulant concentration (into coagulant pump)
+$ cCGd $: desired coagulant concentration in the recirculator
+$ qCGs $: stock coagulant flow rate (through coagulant pump)
+$ qW $: flow rate of water in the recirculator
+$ vHA $: volume per revolution of the humic acid pump (dependent on pump tubing)
+$ sHA $: revolution per second (pump speed) of the humic acid pump
+$ vCG $: volume per revolution of the coagulant pump (dependent on pump tubing)
+$ sCG $: revolution per second (pump speed) of the coagulant pump
+$ vW $: volume per revolution of the water pump (dependent on pump tubing)
+$ sW $: revolution per second (pump speed) of the water pump
+
+```python
+# Recirculator:
+# velocity = 1 mm/s
+# total flow rate = velocity * cross sectional area
+r = 12.7 * u.mm
+vt = 1 * u.mm / u.s
+a = np.pi*(r**2)
+qt = vt * a 
+
+# Humic acid:
+# stock flow rate HA = total flow rate HA * desired concentration HA / stock concentration HA
+cHAs = 1 * u.g / u.L
+cHAd = 0.015 * u.g / u.L
+qHAs = qt * cHAd / cHAs
+
+# Coagulant:
+# stock flow rate coag = total flow rate coag * desired concentration coag / stock concentration coag
+cCGs = 0.5 * u.g / u.L
+cCGd = 0.0015 * u.g / u.L
+qCGs = qt * cCGd / cCGs
+
+# Water:
+# total flow rate = stock flow rate HA + stock flow rate Coag + water flow rate
+qW = qt - qCGs - qHAs
+
+vHA = ac.vol_per_rev_3_stop('yellow-blue')
+sHA = qHAs.to(u.ml/u.s) / vHA
+
+vCG = ac.vol_per_rev_3_stop('yellow-blue')
+sCG = qCGs.to(u.ml/u.s) / vHA
+
+vW = ac.vol_per_rev_LS(17)
+sW = qW.to(u.ml/u.s) / vW
+
+print("Humic acid: " + str(sHA.to(u.rpm)))
+print("Coagulant: " + str(sCG.to(u.rpm)))
+print("Water: " + str(sW.to(u.rpm)))
+```
+
 ## Bibliography 
 Logan, B. E., Hermanowicz, S. W., & Parker,A. S. (1987). A Fundamental Model for Trickling Filter Process Design. Journal (Water Pollution Control Federation), 59(12), 1029–1042.
 
