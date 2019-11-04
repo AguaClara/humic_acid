@@ -1,4 +1,4 @@
-# Humic Acid, Kaolin, Floc/Sed Model, Fall 2018
+# Humic Acid, Kaolin, Floc/Sed Model, Fall 2019
 #### Lawrence Li, Maya Shanti, Carolyn Wang
 #### October 6th 2019
 
@@ -7,7 +7,7 @@
 The Fall 2019 Humic Acid subteam seeks explore the relationship between optimal coagulant dosages and effluent absorbance. Past teams have tested optimal concentration for removing HA. Based on previous work, the optimal coagulant concentration appears naround 1.5 mg/L. For this semester, the team plans to test more coagulant concentrations and humic acid concentration and find the optimal dosage to lower the absorbance of the effluence. The AccuView spectrophotometer will be used to measure the effluent absorbance and measure the efficiency of removing color. The concentrations of HA and coagulant is set based on the data collected from water plants. 
 
 ## Introduction
-Natural Organic Matter (NOM) exists in ground and surface waters with various chemical compositions. It is dipolar and can serve as a nutrient for bacteria, viruses, and pathogens, encouraging their re-germination processes. Additionally, NOM produces carcinogenic by-products during the degradation process. It then becomes imperative to remove NOM in water. The amount of NOM in raw water supplies is greater in areas such as Northern Europe and North America. However, there isn't a robust model predicting how NOM behaves in water and thus, there are not effective treatment methods for NOM removal. Limited knowledge in this area affects drinking water treatment significantly. Many researchers believe the role of NOM in water might call for a need to increase coagulant doses.
+Natural Organic Matter (NOM) exists in ground and surface waters with various chemical compositions. It is dipolar and can serve as a nutrient for bacteria, viruses, and pathogens, encouraging their re-germination processes. Additionally, NOM produces carcinogenic by-products during the degradation process. It then becomes imperative to remove NOM in water. The amount of NOM in raw water supplies is greater in areas such as Northern Europe and North America. However, there is not a robust model predicting how NOM behaves in water and thus, there are not effective treatment methods for NOM removal. Limited knowledge in this area affects drinking water treatment significantly. Many researchers believe the role of NOM in water might call for a need to increase coagulant doses.
 
 In terms of importance to the world in general, the coagulant concentration should not be too high because it is expensive and potentially harmful to the water quality. Too much coagulant will prevent flocculation which is counter-productive. Too little coagulant means the water still potentially has significant levels of humic acid, which will be problematic once chlorine is used to kill bacteria in the water. The humic acid and chlorine will react to form chloroform which is very harmful to humans (Kopfler, F et al.).
 
@@ -45,6 +45,8 @@ The Spring 2019 Humic Acid subteam developed a mathematical model that related t
 To standardize with setup of other particle-removal subteams, 1-inch clear PVC pipe was chosen and fabricated so that the experimental apparatus has a 50 cm recirculator (14) and 35 cm tube settler(15). The floc weir was 40 cm and the bent angle of tube settler was angled 60 degrees relative the horizontal. The length of the tube settler was determined so that a capture velocity of .308 mm/s would be produced at the end of the reactor. The design is obtained from High Rate Sedimentation subteam.
 
 ### Schematic drawing of experiment
+<img src="https://github.com/AguaClara/humic_acid/blob/master/Schematic_Fall_2019.png?raw=true" height=250 width=400>
+Our experimental set-up relies on four main variables: the pumps, the flocculator, the sedimentation tank, and the spectrophotometer. We have three pumps, one is for our coagulant stock (PACl), one is for our HA stock, and the final pump is connected to the water supply. Each pump transports the desired concentration from our stock solutions into the system. The effluent from the HA and water pumps are connected and flow into a turbidity meter. This is done to measure the absorbance of HA before the water is treated so as to compare it to the final absorbance of the water. We use a turbidity meter instead of a spectrophotometer because we do not have a second spectrophotometer at hand, and absorbance can be derived from the HA/water mixture’s turbidity. Then, the coagulant, HA and water flow through the flocculator (the initial step of the treatment process where the flocs are formed) and into the sedimentation tank (where the floc blanket will form). The waste will fall into the tube settler and flow into the wastewater pipe while the treated water will rise to the top and flow through the spectrophotometer. The absorbance will then be measured, and the effluent will be transported to the wastewater pipe.
 
 ### Procedure
 To run the experiment we: 
@@ -99,6 +101,7 @@ $ vW $: volume per revolution of the water pump (dependent on pump tubing)
 
 $ sW $: revolution per second (pump speed) of the water pump
 
+### Code
 ```python
 # Recirculator:
 # velocity = 1 mm/s
