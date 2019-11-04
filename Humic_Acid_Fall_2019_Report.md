@@ -48,6 +48,7 @@ To standardize with setup of other particle-removal subteams, 1-inch clear PVC p
 <img src="https://github.com/AguaClara/humic_acid/blob/master/Schematic_Fall_2019.png?raw=true" height=250 width=400>
 Figure 1: A schematic drawing of our experimental set-up
 
+
 As shown in figure 1, our experimental set-up relies on four main variables: the pumps, the flocculator, the sedimentation tank, and the spectrophotometer. We have three pumps, one is for our coagulant stock (PACl), one is for our HA stock, and the final pump is connected to the water supply. Each pump transports the desired concentration from our stock solutions into the system. The effluent from the HA and water pumps are connected and flow into a turbidity meter. This is done to measure the absorbance of HA before the water is treated so as to compare it to the final absorbance of the water. We use a turbidity meter instead of a spectrophotometer because we do not have a second spectrophotometer at hand, and absorbance can be derived from the HA/water mixture’s turbidity. Then, the coagulant, HA and water flow through the flocculator (the initial step of the treatment process where the flocs are formed) and into the sedimentation tank (where the floc blanket will form). The waste will fall into the tube settler and flow into the wastewater pipe while the treated water will rise to the top and flow through the spectrophotometer. The absorbance will then be measured, and the effluent will be transported to the wastewater pipe.
 
 ### Procedure
