@@ -42,7 +42,7 @@ The Spring 2019 Humic Acid subteam developed a mathematical model that related t
 
 ## Methods
 ### Experimental Apparatus
-To standardize with setup of other particle-removal subteams, 1-inch clear PVC pipe was chosen and fabricated so that the experimental apparatus has a 50 cm recirculator (14) and 35 cm tube settler(15). The floc weir was 40 cm and the bent angle of tube settler was angled 60 degrees relative the horizontal. The length of the tube settler was determined so that a capture velocity of .308 mm/s would be produced at the end of the reactor. The design is obtained from High Rate Sedimentation subteam.
+To standardize with setup of other particle-removal subteams, 1-inch clear PVC pipe was chosen and fabricated so that the experimental apparatus has a 50 cm recirculator and 35 cm tube settler. The floc weir was 40 cm and the bent angle of tube settler was angled 60 degrees relative the horizontal. The length of the tube settler was determined so that a capture velocity of .308 mm/s would be produced at the end of the reactor. The design is obtained from High Rate Sedimentation subteam.
 
 ### Schematic drawing of experiment
 <img src="https://github.com/AguaClara/humic_acid/blob/master/Schematic_Fall_2019.png?raw=true" height=250 width=400>
