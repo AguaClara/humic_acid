@@ -41,9 +41,23 @@ The Spring 2019 Humic Acid subteam developed a mathematical model that related t
 
 
 ## Methods
-#### Experimental Apparatus
+### Experimental Apparatus
+To standardize with setup of other particle-removal subteams, 1-inch clear PVC pipe was chosen and fabricated so that the experimental apparatus has a 50 cm recirculator (14) and 35 cm tube settler(15). The floc weir was 40 cm and the bent angle of tube settler was angled 60 degrees relative the horizontal. The length of the tube settler was determined so that a capture velocity of .308 mm/s would be produced at the end of the reactor. The design is obtained from High Rate Sedimentation subteam.
 
-#### Sedimentation Tank Model
+### Schematic drawing of experiment
+
+### Procedure
+To run the experiment we: 
+
+* clean the flocculator tube and the effluent turbidimeter and spectrophotometer
+* drain the recirculation unit
+* decide a coagulant and humic acid concentration to test
+* input the value into the python code, which outputs the necessary pump speed
+* enter the humic acid concentration for the experiment into python code, which outputs the necessary humic acid pump speed
+* fill both humic acid and coagulant stock buckets with at least 3-4 litres
+* turn on the the water pump, the coagulant pump and the humic acid pump. The coagulant and humic acid pump speed is controlled by procoda. The water pump is generally manually set to run at 50 RPM. 
+
+
 
 ## Python Code
 
