@@ -67,7 +67,7 @@ To run the experiment we:
 The team used the following code to calculate the speed of the humic acid, coagulant, and water pumps to achieve the desired concentrations of humic acid and coagulant in the recirculator (going into the spectrophotometer). This code is based on the equation Q<sub>1</sub>C<sub>1</sub>=Q<sub>2</sub>C<sub>2</sub>, where Q<sub>1</sub> is the initial flow rate, C<sub>1</sub> is the initial concentration, Q<sub>2</sub> is the final flow rate, and C<sub>2</sub> is the final concentration. In order to use this script, the user must input the stock and desired humic acid concentration and the stock and desired coagulant concentration. The upflow velocity in the recirculator is assumed to be 1 mm/s through a 1 in. tube, while the 'yellow-blue' tubing is used for the HA/coag pumps and the ID 17 tubing is used for the water pump.
 
 ### Variables
-$ vt $: upflow velocity in the recirculator
+$vt$: upflow velocity in the recirculator
 
 $ r $: radius of the recirculator tube
 
