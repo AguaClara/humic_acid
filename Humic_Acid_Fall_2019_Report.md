@@ -4,7 +4,7 @@
 
 
 ## Abstract
-The Fall 2019 Humic Acid subteam seeks explore the relationship between optimal coagulant dosages and effluent absorbance. Past teams have tested optimal concentration for removing HA. Based on previous work, the optimal coagulant concentration appears naround 1.5 mg/L. For this semester, the team plans to test more coagulant concentrations and humic acid concentration and find the optimal dosage to lower the absorbance of the effluence. The AccuView spectrophotometer will be used to measure the effluent absorbance and measure the efficiency of removing color. The concentrations of HA and coagulant is set based on the data collected from water plants. 
+The Fall 2019 Humic acid subteam seeks explore the relationship between optimal coagulant dosages and effluent absorbance. Past teams have tested optimal concentration for removing HA. Based on previous work, the optimal coagulant concentration appears naround 1.5 mg/L. For this semester, the team plans to test more coagulant concentrations and humic acid concentration and find the optimal dosage to lower the absorbance of the effluence. The AccuView spectrophotometer will be used to measure the effluent absorbance and measure the efficiency of removing color. The concentrations of HA and coagulant is set based on the data collected from water plants. 
 
 ## Introduction
 Natural Organic Matter (NOM) exists in ground and surface waters with various chemical compositions. It is dipolar and can serve as a nutrient for bacteria, viruses, and pathogens, encouraging their re-germination processes. Additionally, NOM produces carcinogenic by-products during the degradation process. It then becomes imperative to remove NOM in water. The amount of NOM in raw water supplies is greater in areas such as Northern Europe and North America. However, there is not a robust model predicting how NOM behaves in water and thus, there are not effective treatment methods for NOM removal. Limited knowledge in this area affects drinking water treatment significantly. Many researchers believe the role of NOM in water might call for a need to increase coagulant doses.
@@ -16,11 +16,11 @@ In terms of importance to the world in general, the coagulant concentration shou
 ## Literature Review
 Natural organic matter (NOM) negatively affects water quality in a number of ways. It causes discoloration, taste and odor problems, and biological growth in distribution systems. It also increases the concentration of heavy metals and absorbed organic pollutants. The increased particles in water consequently cause an increase in sludge volumes. Matilainen et al.(2010) suggests that optimized coagulation is the major treatment option in decreasing NOM level. However, the nature of NOM has significant effects on the removal efficiency of coagulation. Additionally, the hydrophobic portion of NOM is generally removed more effectively with coagulation than the hydrophilic portion is. The removal efficiency of NOM also depends on several factors such as pH, temperature and coagulant type.
 
-According to Zhang et al.(2008), polyaluminum chlorides (PAC) are some of the most effective and efficient coagulants in water treatment. They are largely used in place of traditional aluminous coagulants due to their high efficiency at low dosages, low cost, and convenient usage. 
+According to Zhang et al.(2008), polyaluminum chlorides (PAC) are some of the most effective and efficient coagulants in water treatment. They are largely used in place of traditional aluminous coagulants due to their high efficiency at low dosages, low cost, and convenient usage.
 
 Regarding NOM removal efficiency, Soh et al.(2008) isolated dissolved NOM into four organic fractions based on their hydrophobic and hydrophilic properties (very hydrophobic acids, slightly hydrophobic acids, charged hydrophilics, and neutral hydrophilics). His experiment was designed to determine the impact of alum coagulation on removal of these fractions in conventional water treatment. He found that the alum removed mostly hydrophobic and higher molecular weight components of NOM. This result further verified that the NOM removal efficiency is correlated with the properties of NOM. His study also revealed that, even though alum coagulation removed a large proportion of NOM, a significant amount of the NOM resisted coagulation as well. This implies that NOM removal will not improve significantly at very high coagulant dosage.
 
-Because of the aforementioned factors, such as pH value, that influence NOM removal efficiency, the team needed to design well-controlled experiments to avoid any unexpected variables affecting experimental results. The studies that have been conducted in related fields provide inspiration for experiments the team will conduct this semester, such as exploring the optimal coagulant dosage (the dosage which yields the lowest effluent turbidity) at certain humic acid concentrations. Previous research focused on the general effect of coagulation on humic acid and the subcomponents of NOM, but there have been no comprehensive studies conducted on optimal dosages. Therefore, the primary focus of this experiment will be on the optimal dosage of coagulant and floc blanket formation of humic acid and coagulant without the addition of clay. 
+Because of the aforementioned factors, such as pH value, that influence NOM removal efficiency, the team needed to design well-controlled experiments to avoid any unexpected variables affecting experimental results. The studies that have been conducted in related fields provide inspiration for experiments the team will conduct this semester, such as exploring the optimal coagulant dosage (the dosage which yields the lowest effluent turbidity) at certain humic acid concentrations. Previous research focused on the general effect of coagulation on humic acid and the subcomponents of NOM, but there have been no comprehensive studies conducted on optimal dosages. Therefore, the primary focus of this experiment will be on the optimal dosage of coagulant and floc blanket formation of humic acid and coagulant without the addition of clay.
 
 More relevant research to the current Humic Acid Team is from Yingda Du (2017), a former graduate student at Cornell. Du was the first to experiment with how effluent turbidity is affected by a combination of coagulant concentration and humic acid concentration. Her thesis paper investigates the effects NOM has on flocculation. Particle size distribution of flocs and effluent turbidity are the two major criteria for determining the effectiveness of flocculation. These two parameters are affected by the concentration of NOM in the system. In order to model this system, humic acid, which is one of the major components of NOM, serves as the surrogate for NOM. Du hypothesized that variation in humic acid concentration will affect floc size distribution and effluent turbidity. In her thesis, she modeled the effects of humic acid in high turbidity water on flocculation. For influent turbidity at 50 NTU with coagulant dosage ranging from 0.53 mg/L to 2.65 mg/L and humic acid concentration ranging from 0 to 15 mg/L, a series of experiments from Yingda indicate that the coagulant dosage is positively correlated with turbidity reduction and the presence of humic acid greatly increases the effluent turbidity. This was same for every experiment. An increase in coagulant dosage decreased the settled water turbidity.
 
@@ -52,7 +52,7 @@ Figure 1: A schematic drawing of our experimental set-up
 As shown in figure 1, our experimental set-up relies on four main variables: the pumps, the flocculator, the sedimentation tank, and the spectrophotometer. We have three pumps, one is for our coagulant stock (PACl), one is for our HA stock, and the final pump is connected to the water supply. Each pump transports the desired concentration from our stock solutions into the system. The effluent from the HA and water pumps are connected and flow into a turbidity meter. This is done to measure the absorbance of HA before the water is treated so as to compare it to the final absorbance of the water. We use a turbidity meter instead of a spectrophotometer because we do not have a second spectrophotometer at hand, and absorbance can be derived from the HA/water mixture’s turbidity. Then, the coagulant, HA and water flow through the flocculator (the initial step of the treatment process where the flocs are formed) and into the sedimentation tank (where the floc blanket will form). The waste will fall into the tube settler and flow into the wastewater pipe while the treated water will rise to the top and flow through the spectrophotometer. The absorbance will then be measured, and the effluent will be transported to the wastewater pipe.
 
 ### Procedure
-To run the experiment we: 
+To run the experiment we:
 
 * clean the flocculator tube and the effluent turbidimeter and spectrophotometer
 * drain the recirculation unit
@@ -60,7 +60,7 @@ To run the experiment we:
 * input the value into the python code, which outputs the necessary pump speed
 * enter the humic acid concentration for the experiment into python code, which outputs the necessary humic acid pump speed
 * fill both humic acid and coagulant stock buckets with at least 3-4 litres
-* turn on the the water pump, the coagulant pump and the humic acid pump. The coagulant and humic acid pump speed is controlled by procoda. The water pump is generally manually set to run at 50 RPM. 
+* turn on the the water pump, the coagulant pump and the humic acid pump. The coagulant and humic acid pump speed is controlled by procoda. The water pump is generally manually set to run at 50 RPM.
 
 
 
@@ -112,7 +112,7 @@ $ sW $: revolution per second (pump speed) of the water pump
 r = 12.7 * u.mm
 vt = 1 * u.mm / u.s
 a = np.pi*(r**2)
-qt = vt * a 
+qt = vt * a
 
 # Humic acid:
 # stock flow rate HA = total flow rate HA * desired concentration HA / stock concentration HA
@@ -144,7 +144,7 @@ print("Coagulant: " + str(sCG.to(u.rpm)))
 print("Water: " + str(sW.to(u.rpm)))
 ```
 
-## Bibliography 
+## Bibliography
 Logan, B. E., Hermanowicz, S. W., & Parker,A. S. (1987). A Fundamental Model for Trickling Filter Process Design. Journal (Water Pollution Control Federation), 59(12), 1029–1042.
 
 Matilaninen, A, Vepsalainen, M & Sillanpaa, M. (2010). Natural Organic Matter Removal by Coagulation during Drinking Water Treatment. Adv Colloid Interface Sci.
@@ -154,5 +154,3 @@ Soh, YC, Roddick, F & Van Leeuwen, J. (2008). The Impact of Alum Coagulation on 
 Kopfler, F., H. Ringhand, W. Coleman, AND J. Meier. REACTIONS OF CHLORINE IN DRINKING WATER, WITH HUMIC ACIDS AND 'IN VIVO'. U.S. Environmental Protection Agency, Washington, D.C., EPA/600/D-84/196 (NTIS PB85160737).
 
 Zhang, Panyue, et al. (2008). Coagulation Characteristics of Polyaluminum Chlorides PAC-Al30 on Humic Acid Removal from Water. Journal (Separation and Purification Technology), 63(3), 642-646.
-
-
