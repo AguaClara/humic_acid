@@ -1,4 +1,4 @@
-# Humic Acid, Kaolin, Floc/Sed Model, Fall 2019
+# Humic Acid, Floc/Sed Model, Fall 2019
 #### Lawrence Li, Maya Shanti, Carolyn Wang
 #### October 6th 2019
 
@@ -6,11 +6,11 @@
 ## Abstract
 The Fall 2019 Humic acid subteam seeks explore the relationship between optimal coagulant dosages and effluent absorbance. Past teams have tested optimal concentration for removing HA. Based on previous work, the optimal coagulant concentration appears naround 1.5 mg/L. For this semester, the team plans to test more coagulant concentrations and humic acid concentration and find the optimal dosage to lower the absorbance of the effluence. The AccuView spectrophotometer will be used to measure the effluent absorbance and measure the efficiency of removing color. The concentrations of HA and coagulant is set based on the data collected from water plants. 
 
+
 ## Introduction
 Natural Organic Matter (NOM) exists in ground and surface waters with various chemical compositions. It is dipolar and can serve as a nutrient for bacteria, viruses, and pathogens, encouraging their re-germination processes. Additionally, NOM produces carcinogenic by-products during the degradation process. It then becomes imperative to remove NOM in water. The amount of NOM in raw water supplies is greater in areas such as Northern Europe and North America. However, there is not a robust model predicting how NOM behaves in water and thus, there are not effective treatment methods for NOM removal. Limited knowledge in this area affects drinking water treatment significantly. Many researchers believe the role of NOM in water might call for a need to increase coagulant doses.
 
 In terms of importance to the world in general, the coagulant concentration should not be too high because it is expensive and potentially harmful to the water quality. Too much coagulant will prevent flocculation which is counter-productive. Too little coagulant means the water still potentially has significant levels of humic acid, which will be problematic once chlorine is used to kill bacteria in the water. The humic acid and chlorine will react to form chloroform which is very harmful to humans (Kopfler, F et al.).
-
 
 
 ## Literature Review
@@ -26,8 +26,8 @@ More relevant research to the current Humic Acid Team is from Yingda Du (2017), 
 
 Another finding from Du's report is that the presence of humic acid increases the frequency of smaller particles after flocculation. As humic acid coats coagulant nano-particles, the attachment efficiency of collisions will decrease. Thus, humic acid can change the particle size distribution of the precipitated solids and larger particle formation is greatly inhibited by humic acid. This result indicates that existence of humic acid particles could diminish the performance of flocculation/sedimentation process with higher effluent turbidity.
 
-## Previous Work
 
+## Previous Work
 The Humic Acid Team was established in Fall 2017 and in that semester, the team members tested the optimal coagulant dosage at 5 mg/L humic acid influent concentration and obtained 1.6 mg/L as the optimal coagulant dosage.
 The Spring 2018 Humic Acid subteam verified the previous semester's result and tested optimal coagulant dosages for 5m/L and 10 mg/L HA concentrations. The results are shown in Table 1 above. As the HA concentration increases, the optimal coagulant dosage drops down slightly. However, the team cannot conclude that the increasing of HA concentration will decrease the optimal coagulant dosage, as a wider range of HA concentrations should be tested. In addition, the team found that for one trial, the head loss through the flocculator accumulates with time. This phenomenon might explain why the effluent turbidity rises up again after the experiment reaches steady state.
 
@@ -36,8 +36,6 @@ The Fall 2018 Humic Acid subteam introduced the spectrophotomer into the experim
 Clay mixtures were run through the turbidity meter and spectrophotometer. Results showed that the turbidity and absorbance of clay were related linearly. The team obtained the relationship y=0.0199x+0.0554, where y is the absorbance and x is the turbidity of clay. This equation implies by measuring the effluent turbidity of a clay sample, the absorbance of clay can be calculated using the equation above. Fall 2018's work in using absorbance gives future teams data for future spectroscopy work.
 
 The Spring 2019 Humic Acid subteam developed a mathematical model that related the concentration of clay and humic acid to the stream’s absorbance and turbidity. The model [HA] + [Clay] = 0.00103x + 0.4280, where x is the measured turbidity, could be used to evaluate the effectiveness and efficiency of the AguaClara plants in removing humic acid from water. The team determined that humic acid and clay streams did not have additive absorbances, so the observed absorbance was not equivalent to the projected combined absorbance of the two streams. While the team expected the absorbance to decrease with increasing clay concentration, because of the clay’s ability to coagulate humic acid particles, the results indicated that the observed absorbance was actually greater than the projected absorbance. The team decided that further research would be required to reach a definite conclusion.
-
-
 
 
 ## Methods
@@ -61,7 +59,6 @@ To run the experiment we:
 * enter the humic acid concentration for the experiment into python code, which outputs the necessary humic acid pump speed
 * fill both humic acid and coagulant stock buckets with at least 3-4 litres
 * turn on the the water pump, the coagulant pump and the humic acid pump. The coagulant and humic acid pump speed is controlled by procoda. The water pump is generally manually set to run at 50 RPM.
-
 
 
 ## Python Code
@@ -143,6 +140,17 @@ print("Humic acid: " + str(sHA.to(u.rpm)))
 print("Coagulant: " + str(sCG.to(u.rpm)))
 print("Water: " + str(sW.to(u.rpm)))
 ```
+
+
+## Conclusion
+The purpose of this experiment was to investigate whether flocs would form if the wastewater to be treated only contained humic acid (no clay to aid in coagulation), and if flocs were found to form, what the optimal concentration of coagulant is at each HA concentration. Through our experiment, we found that flocs did form, however, they were small in size. We anticipated this floc size, as without the aid of clay (which sticks to humic acid when mixed), large floc would not be able to form. 
+
+We found the optimal coagulant concentration for HA concentrations of 15, 20 and 25 mg/L, wherein the optimal dosages were 2.6, 2.8 and 3.8 respectively. We expected that as the coagulant dosage was increased, the effluent’s absorbance would decrease, and after a certain coagulant concentration was breached, we would reach a plateau and increasing coagulant concentration would have no effect on the effluent absorbance. However, we were not able to find that plateau as the range of coagulant concentrations tested was not large enough. 
+
+
+## Future Work
+The team will continue to conduct the same experiment with a few alterations to reach accurate, conclusive results (due to the complications mentioned above). Our first alteration would be to the time allowed for each trial to run. We were not consistent with that aspect, allowing each trial to run from 1-7 hours based on our availability and judgment on floc formation. This will produce more precise results due to the consistency of the method. 
+
 
 ## Bibliography
 Logan, B. E., Hermanowicz, S. W., & Parker,A. S. (1987). A Fundamental Model for Trickling Filter Process Design. Journal (Water Pollution Control Federation), 59(12), 1029–1042.
