@@ -3,10 +3,15 @@ Investigate the effluent HA concentrations as coag dosages increase for certain 
 
 ## Spring 2020 
 ### Members
+- Thomas Bradford: tsb49@cornell.edu, 781-670-6583
+- Bridget Childs: bac258@cornell.edu
+- Matt Lee:  mbl222@cornell.edu
+- Carolyn Wang: jw2376@cornell.edu, 607-262-2638
 
-### Research Advisor 
+### Research Advisor
+- Justin Conneely: jtc284@cornell.edu
 
-### Presentations
+### Reports & Presentations
 
 ## Fall 2019 
 ### Members
@@ -15,9 +20,9 @@ Investigate the effluent HA concentrations as coag dosages increase for certain 
 - Carolyn Wang: jw2376@cornell.edu, 607-262-2638
 
 ### Research Advisor
-Barbara Oramah: bio4@cornell.edu
+- Barbara Oramah: bio4@cornell.edu
 
-### Presentations
-- Mid-term:https://docs.google.com/presentation/d/19sC5iIQ7kGqQ3ujJC4aqTxm_gEdrYmpPyAlIufDdlpc/edit?usp=sharing
+### Reports & Presentations
+- Mid-term: https://docs.google.com/presentation/d/19sC5iIQ7kGqQ3ujJC4aqTxm_gEdrYmpPyAlIufDdlpc/edit?usp=sharing
 - Final report: 
 - Final presentation:
