@@ -1,5 +1,5 @@
 # Humic Acid Removal
-Investigate the effluent HA concentrations as coag dosages increase for certain HA influent concentration using spectrophotometer. Design experiments to compare HA effluent concentration trends for different HA influent concentations.
+Investigate the effluent humic acid (aka. HA) concentrations as coag dosages increase for certain HA influent concentration using spectrophotometer. Design experiments to compare HA effluent concentration trends for different HA influent concentations.
 
 ## Spring 2020 
 ### Members
