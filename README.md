@@ -4,7 +4,7 @@ Investigate the effluent humic acid (aka. HA) concentrations with coagulant dosa
 ## Spring 2020 
 ### Members
 - Thomas Bradford: tsb49@cornell.edu, 781-670-6583
-- Bridget Childs: bac258@cornell.edu
+- Bridget Childs: bac258@cornell.edu, 707-591-5051
 - Matt Lee:  mbl222@cornell.edu
 - Carolyn Wang: jw2376@cornell.edu, 607-262-2638
 
