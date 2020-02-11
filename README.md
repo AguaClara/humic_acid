@@ -25,4 +25,3 @@ Investigate the effluent humic acid (aka. HA) concentrations with coagulant dosa
 ### Reports & Presentations
 - [Symposium](https://docs.google.com/presentation/d/19sC5iIQ7kGqQ3ujJC4aqTxm_gEdrYmpPyAlIufDdlpc/edit?usp=sharing)
 - [Final report](https://github.com/AguaClara/humic_acid/blob/master/Fall%202019/Humic_Acid_Fall_2019_Report.md) 
-- Final presentation:
