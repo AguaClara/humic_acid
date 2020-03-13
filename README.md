@@ -1,5 +1,7 @@
 # Humic Acid Removal
-Investigate the effluent humic acid (aka. HA) concentrations with coagulant dosages increase for certain HA influent concentrations using a spectrophotometer and turbidimeter. Design experiments to compare HA effluent concentration trends for different HA influent concentations.
+We are investigating the optimal PACl dosage to encourage flocculation (and subsequent removal) of humic acid (aka. HA) from influent water in an AguaClara plant. 
+
+Previous semester's mission statement: Investigate the effluent humic acid (aka. HA) concentrations with coagulant dosages increase for certain HA influent concentrations using a spectrophotometer and turbidimeter. Design experiments to compare HA effluent concentration trends for different HA influent concentations.
 
 ## Spring 2020 
 ### Members
