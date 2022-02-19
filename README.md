@@ -18,22 +18,22 @@ The goal of the Humic Acid Removal subteam is to determine the optimal coagulant
   - Malini Balachandran (mvb37@cornell.edu)
   - Kaleigh Soucy (krs258@cornell.edu)
   - Joseph Nocua(jsn74@cornell.edu)
- * Spring 2020
+* Spring 2020
   - Thomas Bradford (tsb49@cornell.edu)
   - Bridget Childs (bac258@cornell.edu)
   - Matthew Lee (mbl222@cornell.edu)
   - Carolyn Wang (jw2376@cornell.edu)
   - Research Advisor: Justin Conneely (jtc284@cornell.edu)
- * Fall 2019 
+* Fall 2019 
   - Lawrence Li (ll678@cornell.edu)
   - Maya Shanti (ms2665@cornell.edu)
   - Carolyn Wang (jw2376@cornell.edu)
   - Research Advisor: Barbara Oramah (bio4@cornell.edu)
- * Spring 2019 
+* Spring 2019 
   - Matthew Lee (mbl222@cornell.edu)
   - Carolyn Wang (jw2376@cornell.edu)
   - Walter Guardado (wg249@cornell.edu
- * Fall 2018 
+* Fall 2018 
   - Matthew Lee (mbl222@cornell.edu)
   - Carolyn Wang (jw2376@cornell.edu)
   - Vanessa Qi (zq33@cornell.edu)
@@ -54,10 +54,10 @@ The goal of the Humic Acid Removal subteam is to determine the optimal coagulant
   - [Symposium](https://docs.google.com/presentation/d/19sC5iIQ7kGqQ3ujJC4aqTxm_gEdrYmpPyAlIufDdlpc/edit?usp=sharing)
   - [Final report](https://github.com/AguaClara/humic_acid/blob/master/Fall%202019/Humic_Acid_Fall_2019_Report.md) 
   - [Final Presentation][video](https://www.youtube.com/watch?v=A4WEZSAfyno)
- * Spring 2019 
+* Spring 2019 
   - [Report](https://github.com/AguaClara/humic_acid/blob/master/Spring%202019/Humic%20Acid%20Spring%202019%20Report.md)
   - [Final Presentation][video](https://www.youtube.com/watch?v=snX5Bf6qQ2o)
- * Fall 2018
+* Fall 2018
   - [Report](https://github.com/AguaClara/humic_acid/blob/master/Fall%202018/Humic%20Acid%20Fall%202018.md)
   - [Final Presentation][video](https://www.youtube.com/watch?v=IO0-0WZ0PjI)
   
