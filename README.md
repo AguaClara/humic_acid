@@ -4,6 +4,7 @@ The goal of the Humic Acid Removal subteam is to determine the optimal coagulant
 
 ## Members:
 * Spring 2022
+  
   Research Advisor: Malini Balachandran (mvb37@cornell.edu)
   
   - Rachel Lai (rml267@cornell.edu)
