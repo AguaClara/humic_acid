@@ -5,49 +5,63 @@ The goal of the Humic Acid Removal subteam is to determine the optimal coagulant
 
 ### Spring 2022
   
-  Research Advisor: Malini Balachandran (mvb37@cornell.edu)
+  Research Advisor: 
+  - Malini Balachandran (mvb37@cornell.edu)
   
   Team Members:
   - Rachel Lai (rml267@cornell.edu)
   - Emily Crites (eec6y@cornell.edu) 
   - Abby Kim (sk2459@cornell.edu)
  
-* Fall 2021 
+### Fall 2021 
 
-  Research Advisor: Malini Balachandran (mvb37@cornell.edu)
+  Research Advisor: 
+  - Malini Balachandran (mvb37@cornell.edu)
   
+  Team Members:
   - Rachel Lai (rml267@cornell.edu)
   - Annie Hsu (yh533@cornell.edu)
   - Lynn Shin (ms3244@cornell.edu) 
   - Dennis Wu (dje323@cornell.edu)
   
-* Spring 2021
+### Spring 2021
+
+  Team Members:
   - Malini Balachandran (mvb37@cornell.edu)
   - Kaleigh Soucy (krs258@cornell.edu)
   - Joseph Nocua(jsn74@cornell.edu)
-* Spring 2020
+  - 
+### Spring 2020
   
-  Research Advisor: Justin Conneely (jtc284@cornell.edu)
+  Research Advisor
+  - Justin Conneely (jtc284@cornell.edu)
   
+  Team Members:
   - Thomas Bradford (tsb49@cornell.edu)
   - Bridget Childs (bac258@cornell.edu)
   - Matthew Lee (mbl222@cornell.edu)
   - Carolyn Wang (jw2376@cornell.edu)
 
-* Fall 2019 
+### Fall 2019 
   
-  Research Advisor: Barbara Oramah (bio4@cornell.edu)
+  Research Advisor
+  - Barbara Oramah (bio4@cornell.edu)
   
+  Team Members:
   - Lawrence Li (ll678@cornell.edu)
   - Maya Shanti (ms2665@cornell.edu)
   - Carolyn Wang (jw2376@cornell.edu)
   
-* Spring 2019 
+### Spring 2019 
+
+  Team Members:
   - Matthew Lee (mbl222@cornell.edu)
   - Carolyn Wang (jw2376@cornell.edu)
   - Walter Guardado (wg249@cornell.edu
 
-* Fall 2018 
+### Fall 2018
+ 
+  Team Members:
   - Matthew Lee (mbl222@cornell.edu)
   - Carolyn Wang (jw2376@cornell.edu)
   - Vanessa Qi (zq33@cornell.edu)
