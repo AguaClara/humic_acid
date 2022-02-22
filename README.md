@@ -3,7 +3,7 @@
 The goal of the Humic Acid Removal subteam is to determine the optimal coagulant dosage to remove humic acid from influent water with low turbidity. The team is ready to start experimenting at varying pH levels, clay concentrations, temperatures, and humic acid concentrations to find optimal coagulant dosings in different situations. Our first focus is to incorporate clay into our humic acid concetration trials.
 
 
-# Spring 2022
+### Spring 2022
   
   Research Advisor: Malini Balachandran (mvb37@cornell.edu)
   
