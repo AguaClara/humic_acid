@@ -68,19 +68,18 @@ The goal of the Humic Acid Removal subteam is to determine the optimal coagulant
 
 ## Reports and Presentations:
 * Fall 2021
-  - [Symposium](https://docs.google.com/presentation/d/1ZKPPbOudWqxHcR9i2Fie1SRaJA10ISYkCvr6lpHot4Q/edit#slide=id.g521d0d0f12_0_4)
-  - [Final Report](https://colab.research.google.com/drive/1gxRjrZHg2fpFZIz1aoeFkFnxCIio37lh)
-  - [Final Presentation Slides](https://docs.google.com/presentation/d/1s0cj8LiiD7t8gaYta8ufzHUrWHgnyvr62gVKCoFSWwo/edit#slide=id.g521d0d0f12_0_4)  
-  - [Final Presentation Video](https://drive.google.com/drive/folders/1ieDkBahcQs82MLuQ4Pal_IvBtEY46sDB)
-* Spring 2021
-  - [Symposium](https://docs.google.com/presentation/d/1OzMrZoW5zLeQSTRK8TgXsiXIjA6FW2g9xs6dxgId4zA/edit#slide=id.g346a079b2f_0_0) 
+  - [Symposium](https://github.com/AguaClara/humic_acid/blob/master/Spring%202021/Symposium%20Spring%202021.pptx)
   - [Final Report](https://github.com/AguaClara/humic_acid/blob/master/Spring%202021/Humic_Acid_Spring2021_FinalReport.ipynb)
-  - [Final Presentation Slides](https://docs.google.com/presentation/d/1SVYZL772orhEhsmqcfRJs1-jt2IuKSDahxMYt0eI3ro/edit#slide=id.g346a079b2f_0_0)
+  - [Final Presentation Slides](https://github.com/AguaClara/humic_acid/blob/master/Spring%202021/Final%20Presentation.pptx)  
+* Spring 2021
+  - [Symposium](https://github.com/AguaClara/humic_acid/blob/master/Spring%202021/Symposium%20Spring%202021.pptx) 
+  - [Final Report](https://github.com/AguaClara/humic_acid/blob/master/Spring%202021/Humic_Acid_Spring2021_FinalReport.ipynb)
+  - [Final Presentation Slides](https://github.com/AguaClara/humic_acid/blob/master/Spring%202021/Final%20Presentation.pptx)
   - [Final Presentation Video](https://www.youtube.com/watch?v=l-5bcg1fkSc)
 * Spring 2020
   - [Report](https://github.com/AguaClara/humic_acid/blob/master/HA_Report_1_Spring2020.ipynb)
 * Fall 2019 
-  - [Symposium](https://docs.google.com/presentation/d/19sC5iIQ7kGqQ3ujJC4aqTxm_gEdrYmpPyAlIufDdlpc/edit?usp=sharing)
+  - [Symposium](https://github.com/AguaClara/humic_acid/blob/master/Fall%202019/Symposium%20FA19.pptx)
   - [Final Report](https://github.com/AguaClara/humic_acid/blob/master/Fall%202019/Humic_Acid_Fall_2019_Report.md) 
   - [Final Presentation Video](https://www.youtube.com/watch?v=A4WEZSAfyno)
 * Spring 2019 
